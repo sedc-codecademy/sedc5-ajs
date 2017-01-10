@@ -1,0 +1,14 @@
+let greetings = [
+    {
+        greeting: "Hi",
+        person: "mom"
+    },
+    {
+        greeting: "Hello",
+        person: "dad"
+    },
+    {
+        greeting: "How do you do",
+        person: "officer"
+    }
+]
