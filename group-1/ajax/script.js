@@ -1,28 +1,25 @@
-var sayHello = function(greeting, name){
+let button = document.getElementById("show");
+var sayHello = function (greeting) {
     let result = document.getElementById("result");
-    let date = new Date();
-    date = `${date.getSeconds()}${date.getMilliseconds()}`;
-    result.innerHTML += `${greeting} <b>${name}</b> (${date})<br/>`;
+    result.innerHTML += `${greeting.greeting}, <b>${greeting.person}</b><br/>`;
 }
 
-sayHello("Hi", "Weko");
+button.addEventListener("click", function () {
+    let xhr = new XMLHttpRequest();
+    xhr.open('GET', 'data.json', true);
+    xhr.send(null);
 
-setInterval(function(){
-    sayHello("Здраво", "Векослав со тајмаут");
-}, 1000);
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState == XMLHttpRequest.DONE) {
+            let greetings = JSON.parse(xhr.response);
+            for (let index = 0; index < greetings.length; index++) {
+                let greeting = greetings[index];
+                setTimeout(function(){
+                    sayHello(greeting)
+                }, index * 2000);
+            }
 
-sayHello("Здраво", "Векослав без тајмаут");
-
-function loop(){
-    while(true){
-
+        }
     }
-}
-setTimeout(function(){
-    for(let i=0; i<1000000; i++){
-        for(let j=0; j<1000; j++){
-            
-        }        
-    }
-}, 900);
+})
 
