@@ -13,13 +13,27 @@ button.addEventListener("click", function () {
         if (xhr.readyState == XMLHttpRequest.DONE) {
             let greetings = JSON.parse(xhr.response);
 
-            for (let index = 0; index < greetings.length; index++) {
-                let greeting = greetings[index];
-                setTimeout(function(){
-                    sayHello(greeting)
-                }, index * 1000);
-            }         
+            // for (let index = 0; index < greetings.length; index++) {
+            //     let greeting = greetings[index];
+            //     setTimeout(function () {
+            //         sayHello(greeting)
+            //     }, index * 1000);
+            // }
+            for (var index = 0; index < greetings.length; index++) {
+                (function () {
+                    var greeting = greetings[index];
+                    setTimeout(function () {
+                        sayHello(greeting)
+                    }, index * 1000);
+                })();
+            }
         }
     }
 })
+
+(function () {
+    var x = 1;
+    var y = 2;
+    console.log(x + y);
+})();
 
