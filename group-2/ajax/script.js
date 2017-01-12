@@ -1,4 +1,5 @@
 let button = document.getElementById("show");
+
 var sayHello = function (greeting) {
     let result = document.getElementById("result");
     result.innerHTML += `${greeting.greeting}, <b>${greeting.person}</b><br/>`;
@@ -10,16 +11,17 @@ button.addEventListener("click", function () {
     xhr.send(null);
 
     xhr.onreadystatechange = function () {
+        console.log(index);
         if (xhr.readyState == XMLHttpRequest.DONE) {
-            let greetings = JSON.parse(xhr.response);
+            let result = JSON.parse(xhr.response);
 
-            for (let index = 0; index < greetings.length; index++) {
-                let greeting = greetings[index];
-                setTimeout(function(){
-                    sayHello(greeting)
-                }, index * 1000);
-            }         
+            for (let index = 0; index < result.length; index++) {
+                let element = result[index];
+                setTimeout(function () {
+                    sayHello(element);
+                }, 1000 * index);
+            }
+            
         }
     }
 })
-
