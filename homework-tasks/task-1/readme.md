@@ -29,4 +29,5 @@ The browser won't allow using ajax calls when the webpage is directly opened fro
 
 * [Using IIS on Windows](https://www.iis.net/learn/manage/creating-websites/scenario-build-a-static-website-on-iis)
 * [Using node and npm](https://www.npmjs.com/package/local-web-server)
+* [Using webstorm](https://blog.jetbrains.com/webide/2013/03/built-in-server-in-webstorm-6/)
 * [Some other ideas](http://stackoverflow.com/questions/5050851/best-lightweight-web-server-only-static-content-for-windows)
