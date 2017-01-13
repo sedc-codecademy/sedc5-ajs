@@ -11,7 +11,6 @@ button.addEventListener("click", function () {
     xhr.send(null);
 
     xhr.onreadystatechange = function () {
-        console.log(index);
         if (xhr.readyState == XMLHttpRequest.DONE) {
             let result = JSON.parse(xhr.response);
 
