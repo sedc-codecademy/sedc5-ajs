@@ -6,4 +6,8 @@
 
 3. Add paging to the page, along with previous and next buttons
 
-4. Display only books with awards
+4. Display only books with awards (check interactions)
+
+5. Add column sorting (check interactions)
+
+6. Add custom filter (a.k.a search) (check interactions)

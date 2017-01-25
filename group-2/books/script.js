@@ -12,6 +12,7 @@ let addBookToTable = function (book, booksContainer) {
 let pageSize = 20;
 let pageNumber = 1;
 let books = [];
+let filterBooks = [];
 
 let removeRows = function (booksContainer) {
     booksContainer.html("");
@@ -30,7 +31,7 @@ $(() => {
         if (pageNumber > 1) {
             pageNumber -= 1;
         }
-        displayPage(pageNumber, pageSize, books, booksContainer);
+        displayPage(pageNumber, pageSize, filterBooks, booksContainer);
     })
 
     $("#next").on('click', () => {
@@ -38,14 +39,32 @@ $(() => {
         if (pageNumber < maxPageNumber) {
             pageNumber += 1;
         }
-        displayPage(pageNumber, pageSize, books, booksContainer);
+        displayPage(pageNumber, pageSize, filterBooks, booksContainer);
+    })
+
+    $("#search").on('click', ()=>{
+        let searchItem = $("#searchItem").val();
+        if (!searchItem)
+            return;
+        searchItem = searchItem.toLowerCase();
+        
+        filterBooks = books.filter(b => {
+            if (b.author.toLowerCase().indexOf(searchItem) !== -1)
+                return true;
+            if (b.title.toLowerCase().indexOf(searchItem) !== -1)
+                return true;
+            return false;
+        })
+        pageNumber = 1;
+        displayPage(pageNumber, pageSize, filterBooks, booksContainer);
     })
 
     $.ajax("books2.json", {
         complete: (data) => {
             let result = data.responseJSON;
             books = result;
-            displayPage(pageNumber, pageSize, books, booksContainer);
+            filterBooks = books;
+            displayPage(pageNumber, pageSize, filterBooks, booksContainer);
         }
     });
 })
