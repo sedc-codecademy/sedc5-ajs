@@ -1,0 +1,3002 @@
+[
+    {
+        "title": "ENDER'S GAME",
+        "author": "Orson Scott Card",
+        "awards": 3
+    },
+    {
+        "title": "DUNE",
+        "author": "Frank Herbert",
+        "awards": 2
+    },
+    {
+        "title": "THE HITCHHIKER'S GUIDE TO THE GALAXY",
+        "author": "Douglas Adams",
+        "awards": 0
+    },
+    {
+        "title": "THE LORD OF THE RINGS",
+        "author": "J. R. R. Tolkien",
+        "awards": 0
+    },
+    {
+        "title": "NINETEEN EIGHTY-FOUR",
+        "author": "George Orwell",
+        "awards": 0
+    },
+    {
+        "title": "AMERICAN GODS",
+        "author": "Neil Gaiman",
+        "awards": 8
+    },
+    {
+        "title": "THE HOBBIT",
+        "author": "J. R. R. Tolkien",
+        "awards": 0
+    },
+    {
+        "title": "THE FOREVER WAR",
+        "author": "Joe Haldeman",
+        "awards": 3
+    },
+    {
+        "title": "NEUROMANCER",
+        "author": "William Gibson",
+        "awards": 7
+    },
+    {
+        "title": "FAHRENHEIT 451",
+        "author": "Ray Bradbury",
+        "awards": 0
+    },
+    {
+        "title": "HARRY POTTER AND THE PRISONER OF AZKABAN",
+        "author": "J. K. Rowling",
+        "awards": 2
+    },
+    {
+        "title": "RENDEZVOUS WITH RAMA",
+        "author": "Arthur C. Clarke",
+        "awards": 5
+    },
+    {
+        "title": "DO ANDROIDS DREAM OF ELECTRIC SHEEP?",
+        "author": "Philip K. Dick",
+        "awards": 1
+    },
+    {
+        "title": "HARRY POTTER AND THE GOBLET OF FIRE",
+        "author": "J. K. Rowling",
+        "awards": 1
+    },
+    {
+        "title": "STRANGER IN A STRANGE LAND",
+        "author": "Robert A. Heinlein",
+        "awards": 1
+    },
+    {
+        "title": "HYPERION",
+        "author": "Dan Simmons",
+        "awards": 4
+    },
+    {
+        "title": "HARRY POTTER AND THE SORCERER'S STONE",
+        "author": "J. K. Rowling",
+        "awards": 1
+    },
+    {
+        "title": "A GAME OF THRONES",
+        "author": "George R. R. Martin",
+        "awards": 3
+    },
+    {
+        "title": "RINGWORLD",
+        "author": "Larry Niven",
+        "awards": 3
+    },
+    {
+        "title": "SPEAKER FOR THE DEAD",
+        "author": "Orson Scott Card",
+        "awards": 4
+    },
+    {
+        "title": "ANIMAL FARM",
+        "author": "George Orwell",
+        "awards": 0
+    },
+    {
+        "title": "BRAVE NEW WORLD",
+        "author": "Aldous Huxley",
+        "awards": 0
+    },
+    {
+        "title": "STARSHIP TROOPERS",
+        "author": "Robert A. Heinlein",
+        "awards": 1
+    },
+    {
+        "title": "THE FOUNDATION TRILOGY",
+        "author": "Isaac Asimov",
+        "awards": 0
+    },
+    {
+        "title": "THE LEFT HAND OF DARKNESS",
+        "author": "Ursula K. Le Guin",
+        "awards": 2
+    },
+    {
+        "title": "SLAUGHTERHOUSE - FIVE",
+        "author": "Kurt Vonnegut, Jr.",
+        "awards": 2
+    },
+    {
+        "title": "FOUNDATION",
+        "author": "Isaac Asimov",
+        "awards": 0
+    },
+    {
+        "title": "FLOWERS FOR ALGERNON",
+        "author": "Daniel Keyes",
+        "awards": 2
+    },
+    {
+        "title": "THE FELLOWSHIP OF THE RING",
+        "author": "J. R. R. Tolkien",
+        "awards": 0
+    },
+    {
+        "title": "A CANTICLE FOR LEIBOWITZ",
+        "author": "Walter M. Miller, Jr.",
+        "awards": 1
+    },
+    {
+        "title": "THE TWO TOWERS",
+        "author": "J. R. R. Tolkien",
+        "awards": 0
+    },
+    {
+        "title": "THE TIME MACHINE",
+        "author": "H. G. Wells",
+        "awards": 0
+    },
+    {
+        "title": "THE RETURN OF THE KING",
+        "author": "J. R. R. Tolkien",
+        "awards": 0
+    },
+    {
+        "title": "CHILDHOOD'S END",
+        "author": "Arthur C. Clarke",
+        "awards": 0
+    },
+    {
+        "title": "FRANKENSTEIN",
+        "author": "Mary Shelley",
+        "awards": 0
+    },
+    {
+        "title": "THE MAN IN THE HIGH CASTLE",
+        "author": "Philip K. Dick",
+        "awards": 1
+    },
+    {
+        "title": "A CLASH OF KINGS",
+        "author": "George R. R. Martin",
+        "awards": 2
+    },
+    {
+        "title": "THE MOON IS A HARSH MISTRESS",
+        "author": "Robert A. Heinlein",
+        "awards": 2
+    },
+    {
+        "title": "HARRY POTTER AND THE CHAMBER OF SECRETS",
+        "author": "J. K. Rowling",
+        "awards": 0
+    },
+    {
+        "title": "I, ROBOT",
+        "author": "Isaac Asimov",
+        "awards": 0
+    },
+    {
+        "title": "THE FALL OF HYPERION",
+        "author": "Dan Simmons",
+        "awards": 4
+    },
+    {
+        "title": "A STORM OF SWORDS",
+        "author": "George R. R. Martin",
+        "awards": 3
+    },
+    {
+        "title": "THE MARTIAN CHRONICLES",
+        "author": "Ray Bradbury",
+        "awards": 0
+    },
+    {
+        "title": "HARRY POTTER AND THE HALF-BLOOD PRINCE",
+        "author": "J. K. Rowling",
+        "awards": 0
+    },
+    {
+        "title": "2001",
+        "author": "Arthur C. Clarke",
+        "awards": 0
+    },
+    {
+        "title": "SNOW CRASH",
+        "author": "Neal Stephenson",
+        "awards": 3
+    },
+    {
+        "title": "HARRY POTTER AND THE ORDER OF THE PHOENIX",
+        "author": "J. K. Rowling",
+        "awards": 1
+    },
+    {
+        "title": "OLD MAN'S WAR",
+        "author": "John Scalzi",
+        "awards": 2
+    },
+    {
+        "title": "A FEAST FOR CROWS",
+        "author": "George R. R. Martin",
+        "awards": 3
+    },
+    {
+        "title": "HARRY POTTER AND THE DEATHLY HALLOWS",
+        "author": "J. K. Rowling",
+        "awards": 1
+    },
+    {
+        "title": "THE WAR OF THE WORLDS",
+        "author": "H. G. Wells",
+        "awards": 0
+    },
+    {
+        "title": "THE DISPOSSESSED",
+        "author": "Ursula K. Le Guin",
+        "awards": 4
+    },
+    {
+        "title": "THE RESTAURANT AT THE END OF THE UNIVERSE",
+        "author": "Douglas Adams",
+        "awards": 0
+    },
+    {
+        "title": "THE HANDMAID'S TALE",
+        "author": "Margaret Atwood",
+        "awards": 5
+    },
+    {
+        "title": "THE HUNGER GAMES",
+        "author": "Suzanne Collins",
+        "awards": 0
+    },
+    {
+        "title": "GATEWAY",
+        "author": "Frederik Pohl",
+        "awards": 4
+    },
+    {
+        "title": "LORD OF THE FLIES",
+        "author": "William Golding",
+        "awards": 0
+    },
+    {
+        "title": "I AM LEGEND",
+        "author": "Richard Matheson",
+        "awards": 0
+    },
+    {
+        "title": "RED MARS",
+        "author": "Kim Stanley Robinson",
+        "awards": 6
+    },
+    {
+        "title": "THE STAND",
+        "author": "Stephen King",
+        "awards": 1
+    },
+    {
+        "title": "THE DEMOLISHED MAN",
+        "author": "Alfred Bester",
+        "awards": 1
+    },
+    {
+        "title": "FOUNDATION'S EDGE",
+        "author": "Isaac Asimov",
+        "awards": 3
+    },
+    {
+        "title": "JONATHAN STRANGE & MR. NORRELL",
+        "author": "Susanna Clarke",
+        "awards": 7
+    },
+    {
+        "title": "THE STARS MY DESTINATION",
+        "author": "Alfred Bester",
+        "awards": 0
+    },
+    {
+        "title": "DOOMSDAY BOOK",
+        "author": "Connie Willis",
+        "awards": 6
+    },
+    {
+        "title": "A WIZARD OF EARTHSEA",
+        "author": "Ursula K. Le Guin",
+        "awards": 0
+    },
+    {
+        "title": "A DANCE WITH DRAGONS",
+        "author": "George R. R. Martin",
+        "awards": 4
+    },
+    {
+        "title": "LIFE, THE UNIVERSE AND EVERYTHING",
+        "author": "Douglas Adams",
+        "awards": 0
+    },
+    {
+        "title": "XENOCIDE",
+        "author": "Orson Scott Card",
+        "awards": 2
+    },
+    {
+        "title": "CHILDREN OF DUNE",
+        "author": "Frank Herbert",
+        "awards": 2
+    },
+    {
+        "title": "THE WINDUP GIRL",
+        "author": "Paolo Bacigalupi",
+        "awards": 5
+    },
+    {
+        "title": "THE COLOR OF MAGIC",
+        "author": "Terry Pratchett",
+        "awards": 0
+    },
+    {
+        "title": "THE DIAMOND AGE",
+        "author": "Neal Stephenson",
+        "awards": 6
+    },
+    {
+        "title": "PERDIDO STREET STATION",
+        "author": "China Miéville",
+        "awards": 8
+    },
+    {
+        "title": "A FIRE UPON THE DEEP",
+        "author": "Vernor Vinge",
+        "awards": 4
+    },
+    {
+        "title": "CRYPTONOMICON",
+        "author": "Neal Stephenson",
+        "awards": 4
+    },
+    {
+        "title": "THE GRAVEYARD BOOK",
+        "author": "Neil Gaiman",
+        "awards": 4
+    },
+    {
+        "title": "FOUNDATION AND EMPIRE",
+        "author": "Isaac Asimov",
+        "awards": 0
+    },
+    {
+        "title": "THE GOLDEN COMPASS",
+        "author": "Philip Pullman",
+        "awards": 0
+    },
+    {
+        "title": "THE CAVES OF STEEL",
+        "author": "Isaac Asimov",
+        "awards": 0
+    },
+    {
+        "title": "SECOND FOUNDATION",
+        "author": "Isaac Asimov",
+        "awards": 0
+    },
+    {
+        "title": "ANCILLARY JUSTICE",
+        "author": "Ann Leckie",
+        "awards": 9
+    },
+    {
+        "title": "THE CITY & THE CITY",
+        "author": "China Miéville",
+        "awards": 8
+    },
+    {
+        "title": "GOOD OMENS",
+        "author": "Neil GaimanTerry Pratchett",
+        "awards": 2
+    },
+    {
+        "title": "CAT'S CRADLE",
+        "author": "Kurt Vonnegut, Jr.",
+        "awards": 1
+    },
+    {
+        "title": "THE LION, THE WITCH AND THE WARDROBE",
+        "author": "C. S. Lewis",
+        "awards": 0
+    },
+    {
+        "title": "THE GUNSLINGER",
+        "author": "Stephen King",
+        "awards": 0
+    },
+    {
+        "title": "THE GODS THEMSELVES",
+        "author": "Isaac Asimov",
+        "awards": 3
+    },
+    {
+        "title": "THE SILMARILLION",
+        "author": "J. R. R. Tolkien",
+        "awards": 1
+    },
+    {
+        "title": "REDSHIRTS",
+        "author": "John Scalzi",
+        "awards": 2
+    },
+    {
+        "title": "THE MOTE IN GOD'S EYE",
+        "author": "Larry NivenJerry Pournelle",
+        "awards": 3
+    },
+    {
+        "title": "CATCHING FIRE",
+        "author": "Suzanne Collins",
+        "awards": 1
+    },
+    {
+        "title": "DRACULA",
+        "author": "Bram Stoker",
+        "awards": 0
+    },
+    {
+        "title": "A CLOCKWORK ORANGE",
+        "author": "Anthony Burgess",
+        "awards": 0
+    },
+    {
+        "title": "WATCHMEN",
+        "author": "Alan MooreDave Gibbons",
+        "awards": 0
+    },
+    {
+        "title": "DUNE MESSIAH",
+        "author": "Frank Herbert",
+        "awards": 0
+    },
+    {
+        "title": "NEVERWHERE",
+        "author": "Neil Gaiman",
+        "awards": 1
+    },
+    {
+        "title": "MOCKINGJAY",
+        "author": "Suzanne Collins",
+        "awards": 2
+    },
+    {
+        "title": "LORD OF LIGHT",
+        "author": "Roger Zelazny",
+        "awards": 2
+    },
+    {
+        "title": "STARTIDE RISING",
+        "author": "David Brin",
+        "awards": 3
+    },
+    {
+        "title": "SO LONG, AND THANKS FOR ALL THE FISH",
+        "author": "Douglas Adams",
+        "awards": 0
+    },
+    {
+        "title": "ALICE'S ADVENTURES IN WONDERLAND",
+        "author": "Lewis Carroll",
+        "awards": 0
+    },
+    {
+        "title": "CONSIDER PHLEBAS",
+        "author": "Iain M. Banks",
+        "awards": 0
+    },
+    {
+        "title": "SPIN",
+        "author": "Robert Charles Wilson",
+        "awards": 4
+    },
+    {
+        "title": "ANANSI BOYS",
+        "author": "Neil Gaiman",
+        "awards": 3
+    },
+    {
+        "title": "ANATHEM",
+        "author": "Neal Stephenson",
+        "awards": 5
+    },
+    {
+        "title": "THE AMBER SPYGLASS",
+        "author": "Philip Pullman",
+        "awards": 2
+    },
+    {
+        "title": "STARDUST",
+        "author": "Neil Gaiman",
+        "awards": 2
+    },
+    {
+        "title": "20,000 LEAGUES UNDER THE SEA",
+        "author": "Jules Verne",
+        "awards": 0
+    },
+    {
+        "title": "THE ROAD",
+        "author": "Cormac McCarthy",
+        "awards": 0
+    },
+    {
+        "title": "A SCANNER DARKLY",
+        "author": "Philip K. Dick",
+        "awards": 2
+    },
+    {
+        "title": "UBIK",
+        "author": "Philip K. Dick",
+        "awards": 0
+    },
+    {
+        "title": "TO YOUR SCATTERED BODIES GO",
+        "author": "Philip José Farmer",
+        "awards": 2
+    },
+    {
+        "title": "THE LATHE OF HEAVEN",
+        "author": "Ursula K. Le Guin",
+        "awards": 3
+    },
+    {
+        "title": "INTERVIEW WITH THE VAMPIRE",
+        "author": "Anne Rice",
+        "awards": 1
+    },
+    {
+        "title": "THE SHINING",
+        "author": "Stephen King",
+        "awards": 1
+    },
+    {
+        "title": "THE EYE OF THE WORLD",
+        "author": "Robert Jordan",
+        "awards": 0
+    },
+    {
+        "title": "THE SHADOW OF THE TORTURER",
+        "author": "Gene Wolfe",
+        "awards": 5
+    },
+    {
+        "title": "A DEEPNESS IN THE SKY",
+        "author": "Vernor Vinge",
+        "awards": 6
+    },
+    {
+        "title": "THE DAY OF THE TRIFFIDS",
+        "author": "John Wyndham",
+        "awards": 0
+    },
+    {
+        "title": "2010",
+        "author": "Arthur C. Clarke",
+        "awards": 2
+    },
+    {
+        "title": "DRAGONFLIGHT",
+        "author": "Anne McCaffrey",
+        "awards": 0
+    },
+    {
+        "title": "THE SIRENS OF TITAN",
+        "author": "Kurt Vonnegut, Jr.",
+        "awards": 1
+    },
+    {
+        "title": "LEVIATHAN WAKES",
+        "author": "James S. A. Corey",
+        "awards": 2
+    },
+    {
+        "title": "FOUNDATION AND EARTH",
+        "author": "Isaac Asimov",
+        "awards": 1
+    },
+    {
+        "title": "ENDER'S SHADOW",
+        "author": "Orson Scott Card",
+        "awards": 1
+    },
+    {
+        "title": "GREEN MARS",
+        "author": "Kim Stanley Robinson",
+        "awards": 4
+    },
+    {
+        "title": "THE CHRONICLES OF NARNIA",
+        "author": "C. S. Lewis",
+        "awards": 0
+    },
+    {
+        "title": "IT",
+        "author": "Stephen King",
+        "awards": 3
+    },
+    {
+        "title": "AMONG OTHERS",
+        "author": "Jo Walton",
+        "awards": 6
+    },
+    {
+        "title": "THE RISE OF ENDYMION",
+        "author": "Dan Simmons",
+        "awards": 2
+    },
+    {
+        "title": "THE NAME OF THE WIND",
+        "author": "Patrick Rothfuss",
+        "awards": 1
+    },
+    {
+        "title": "THE SUBTLE KNIFE",
+        "author": "Philip Pullman",
+        "awards": 0
+    },
+    {
+        "title": "THE STRANGE CASE OF DR. JEKYLL AND MR. HYDE",
+        "author": "Robert Louis Stevenson",
+        "awards": 0
+    },
+    {
+        "title": "'SALEM'S LOT",
+        "author": "Stephen King",
+        "awards": 1
+    },
+    {
+        "title": "THE FOUNTAINS OF PARADISE",
+        "author": "Arthur C. Clarke",
+        "awards": 4
+    },
+    {
+        "title": "THE YIDDISH POLICEMEN'S UNION",
+        "author": "Michael Chabon",
+        "awards": 5
+    },
+    {
+        "title": "MOSTLY HARMLESS",
+        "author": "Douglas Adams",
+        "awards": 0
+    },
+    {
+        "title": "TO SAY NOTHING OF THE DOG",
+        "author": "Connie Willis",
+        "awards": 3
+    },
+    {
+        "title": "DOUBLE STAR",
+        "author": "Robert A. Heinlein",
+        "awards": 1
+    },
+    {
+        "title": "ENDYMION",
+        "author": "Dan Simmons",
+        "awards": 1
+    },
+    {
+        "title": "RAINBOWS END",
+        "author": "Vernor Vinge",
+        "awards": 4
+    },
+    {
+        "title": "WATERSHIP DOWN",
+        "author": "Richard Adams",
+        "awards": 1
+    },
+    {
+        "title": "REVELATION SPACE",
+        "author": "Alastair Reynolds",
+        "awards": 3
+    },
+    {
+        "title": "PRELUDE TO FOUNDATION",
+        "author": "Isaac Asimov",
+        "awards": 1
+    },
+    {
+        "title": "COUNT ZERO",
+        "author": "William Gibson",
+        "awards": 4
+    },
+    {
+        "title": "THE ROBOTS OF DAWN",
+        "author": "Isaac Asimov",
+        "awards": 2
+    },
+    {
+        "title": "THE TOMBS OF ATUAN",
+        "author": "Ursula K. Le Guin",
+        "awards": 1
+    },
+    {
+        "title": "FOREVER PEACE",
+        "author": "Joe Haldeman",
+        "awards": 4
+    },
+    {
+        "title": "JOURNEY TO THE CENTER OF THE EARTH",
+        "author": "Jules Verne",
+        "awards": 0
+    },
+    {
+        "title": "PRINCE CASPIAN",
+        "author": "C. S. Lewis",
+        "awards": 0
+    },
+    {
+        "title": "SOMETHING WICKED THIS WAY COMES",
+        "author": "Ray Bradbury",
+        "awards": 0
+    },
+    {
+        "title": "THE LIGHT FANTASTIC",
+        "author": "Terry Pratchett",
+        "awards": 0
+    },
+    {
+        "title": "BABEL-17",
+        "author": "Samuel R. Delany",
+        "awards": 2
+    },
+    {
+        "title": "LORD FOUL'S BANE",
+        "author": "Stephen R. Donaldson",
+        "awards": 3
+    },
+    {
+        "title": "DARWIN'S RADIO",
+        "author": "Greg Bear",
+        "awards": 4
+    },
+    {
+        "title": "BLUE MARS",
+        "author": "Kim Stanley Robinson",
+        "awards": 5
+    },
+    {
+        "title": "THE CLAW OF THE CONCILIATOR",
+        "author": "Gene Wolfe",
+        "awards": 5
+    },
+    {
+        "title": "THE MARTIAN",
+        "author": "Andy Weir",
+        "awards": 1
+    },
+    {
+        "title": "THE POSTMAN",
+        "author": "David Brin",
+        "awards": 4
+    },
+    {
+        "title": "THE INVISIBLE MAN",
+        "author": "H. G. Wells",
+        "awards": 0
+    },
+    {
+        "title": "MONA LISA OVERDRIVE",
+        "author": "William Gibson",
+        "awards": 4
+    },
+    {
+        "title": "THE OCEAN AT THE END OF THE LANE",
+        "author": "Neil Gaiman",
+        "awards": 5
+    },
+    {
+        "title": "GULLIVER'S TRAVELS",
+        "author": "Jonathan Swift",
+        "awards": 0
+    },
+    {
+        "title": "THE NAKED SUN",
+        "author": "Isaac Asimov",
+        "awards": 0
+    },
+    {
+        "title": "THE UPLIFT WAR",
+        "author": "David Brin",
+        "awards": 4
+    },
+    {
+        "title": "THE PLAYER OF GAMES",
+        "author": "Iain M. Banks",
+        "awards": 0
+    },
+    {
+        "title": "ALTERED CARBON",
+        "author": "Richard K. Morgan",
+        "awards": 2
+    },
+    {
+        "title": "THE LAST COLONY",
+        "author": "John Scalzi",
+        "awards": 1
+    },
+    {
+        "title": "GOD EMPEROR OF DUNE",
+        "author": "Frank Herbert",
+        "awards": 0
+    },
+    {
+        "title": "THE VOYAGE OF THE DAWN TREADER",
+        "author": "C. S. Lewis",
+        "awards": 0
+    },
+    {
+        "title": "LITTLE BROTHER",
+        "author": "Cory Doctorow",
+        "awards": 5
+    },
+    {
+        "title": "READY PLAYER ONE",
+        "author": "Ernest Cline",
+        "awards": 3
+    },
+    {
+        "title": "EMBASSYTOWN",
+        "author": "China Miéville",
+        "awards": 7
+    },
+    {
+        "title": "BONESHAKER",
+        "author": "Cherie Priest",
+        "awards": 3
+    },
+    {
+        "title": "MISTBORN",
+        "author": "Brandon Sanderson",
+        "awards": 0
+    },
+    {
+        "title": "THE FARTHEST SHORE",
+        "author": "Ursula K. Le Guin",
+        "awards": 1
+    },
+    {
+        "title": "THE ISLAND OF DR. MOREAU",
+        "author": "H. G. Wells",
+        "awards": 0
+    },
+    {
+        "title": "MORT",
+        "author": "Terry Pratchett",
+        "awards": 0
+    },
+    {
+        "title": "STAND ON ZANZIBAR",
+        "author": "John Brunner",
+        "awards": 3
+    },
+    {
+        "title": "THE SANDMAN: PRELUDES AND NOCTURNES",
+        "author": "Neil Gaiman",
+        "awards": 0
+    },
+    {
+        "title": "A PRINCESS OF MARS",
+        "author": "Edgar Rice Burroughs",
+        "awards": 0
+    },
+    {
+        "title": "THROUGH THE LOOKING-GLASS, AND WHAT ALICE FOUND THERE",
+        "author": "Lewis Carroll",
+        "awards": 0
+    },
+    {
+        "title": "WAY STATION",
+        "author": "Clifford D. Simak",
+        "awards": 1
+    },
+    {
+        "title": "DRAGONQUEST",
+        "author": "Anne McCaffrey",
+        "awards": 2
+    },
+    {
+        "title": "HAVE SPACE SUIT - WILL TRAVEL",
+        "author": "Robert A. Heinlein",
+        "awards": 1
+    },
+    {
+        "title": "THE ILLUSTRATED MAN",
+        "author": "Ray Bradbury",
+        "awards": 0
+    },
+    {
+        "title": "FLOW MY TEARS, THE POLICEMAN SAID",
+        "author": "Philip K. Dick",
+        "awards": 4
+    },
+    {
+        "title": "THE MAGICIAN'S NEPHEW",
+        "author": "C. S. Lewis",
+        "awards": 0
+    },
+    {
+        "title": "BARRAYAR",
+        "author": "Lois McMaster Bujold",
+        "awards": 3
+    },
+    {
+        "title": "CARRIE",
+        "author": "Stephen King",
+        "awards": 0
+    },
+    {
+        "title": "THE DRAWING OF THE THREE",
+        "author": "Stephen King",
+        "awards": 0
+    },
+    {
+        "title": "BLACKOUT",
+        "author": "Connie Willis",
+        "awards": 4
+    },
+    {
+        "title": "EQUAL RITES",
+        "author": "Terry Pratchett",
+        "awards": 0
+    },
+    {
+        "title": "LUCIFER'S HAMMER",
+        "author": "Larry NivenJerry Pournelle",
+        "awards": 1
+    },
+    {
+        "title": "USE OF WEAPONS",
+        "author": "Iain M. Banks",
+        "awards": 2
+    },
+    {
+        "title": "WORLD WAR Z",
+        "author": "Max Brooks",
+        "awards": 0
+    },
+    {
+        "title": "THE TIME MACHINE AND THE WAR OF THE WORLDS",
+        "author": "H. G. Wells",
+        "awards": 0
+    },
+    {
+        "title": "A WRINKLE IN TIME",
+        "author": "Madeleine L’Engle",
+        "awards": 0
+    },
+    {
+        "title": "THE SCAR",
+        "author": "China Miéville",
+        "awards": 7
+    },
+    {
+        "title": "PET SEMATARY",
+        "author": "Stephen King",
+        "awards": 1
+    },
+    {
+        "title": "THE HORSE AND HIS BOY",
+        "author": "C. S. Lewis",
+        "awards": 0
+    },
+    {
+        "title": "THE SILVER CHAIR",
+        "author": "C. S. Lewis",
+        "awards": 0
+    },
+    {
+        "title": "THE SPARROW",
+        "author": "Mary Doria Russell",
+        "awards": 4
+    },
+    {
+        "title": "SOLARIS",
+        "author": "Stanislaw Lem",
+        "awards": 0
+    },
+    {
+        "title": "MORE THAN HUMAN",
+        "author": "Theodore Sturgeon",
+        "awards": 0
+    },
+    {
+        "title": "CHILDREN OF THE MIND",
+        "author": "Orson Scott Card",
+        "awards": 0
+    },
+    {
+        "title": "BLOOD MUSIC",
+        "author": "Greg Bear",
+        "awards": 4
+    },
+    {
+        "title": "CONTACT",
+        "author": "Carl Sagan",
+        "awards": 1
+    },
+    {
+        "title": "THE BOOK OF THE NEW SUN, VOLUME 1",
+        "author": "Gene Wolfe",
+        "awards": 0
+    },
+    {
+        "title": "THE SWORD OF THE LICTOR",
+        "author": "Gene Wolfe",
+        "awards": 6
+    },
+    {
+        "title": "THE VOR GAME",
+        "author": "Lois McMaster Bujold",
+        "awards": 2
+    },
+    {
+        "title": "TIME ENOUGH FOR LOVE",
+        "author": "Robert A. Heinlein",
+        "awards": 3
+    },
+    {
+        "title": "THE THREE-BODY PROBLEM",
+        "author": "Cixin Liu",
+        "awards": 5
+    },
+    {
+        "title": "SEVENTH SON",
+        "author": "Orson Scott Card",
+        "awards": 4
+    },
+    {
+        "title": "THE PRINCESS BRIDE",
+        "author": "William Goldman",
+        "awards": 0
+    },
+    {
+        "title": "THE THREE STIGMATA OF PALMER ELDRITCH",
+        "author": "Philip K. Dick",
+        "awards": 1
+    },
+    {
+        "title": "TEHANU",
+        "author": "Ursula K. Le Guin",
+        "awards": 3
+    },
+    {
+        "title": "THE CITY AND THE STARS",
+        "author": "Arthur C. Clarke",
+        "awards": 0
+    },
+    {
+        "title": "THE CHRONICLES OF AMBER",
+        "author": "Roger Zelazny",
+        "awards": 0
+    },
+    {
+        "title": "ANCILLARY SWORD",
+        "author": "Ann Leckie",
+        "awards": 4
+    },
+    {
+        "title": "THE WHITE DRAGON",
+        "author": "Anne McCaffrey",
+        "awards": 2
+    },
+    {
+        "title": "SHARDS OF HONOR",
+        "author": "Lois McMaster Bujold",
+        "awards": 1
+    },
+    {
+        "title": "NINE PRINCES IN AMBER",
+        "author": "Roger Zelazny",
+        "awards": 1
+    },
+    {
+        "title": "THE GHOST BRIGADES",
+        "author": "John Scalzi",
+        "awards": 1
+    },
+    {
+        "title": "GOING POSTAL",
+        "author": "Terry Pratchett",
+        "awards": 2
+    },
+    {
+        "title": "THE MISTS OF AVALON",
+        "author": "Marion Zimmer Bradley",
+        "awards": 2
+    },
+    {
+        "title": "THE WASTE LANDS",
+        "author": "Stephen King",
+        "awards": 1
+    },
+    {
+        "title": "SHADOW OF THE HEGEMON",
+        "author": "Orson Scott Card",
+        "awards": 1
+    },
+    {
+        "title": "DOWNBELOW STATION",
+        "author": "C. J. Cherryh",
+        "awards": 2
+    },
+    {
+        "title": "ILIUM",
+        "author": "Dan Simmons",
+        "awards": 2
+    },
+    {
+        "title": "SMALL GODS",
+        "author": "Terry Pratchett",
+        "awards": 0
+    },
+    {
+        "title": "MISERY",
+        "author": "Stephen King",
+        "awards": 2
+    },
+    {
+        "title": "A CASE OF CONSCIENCE",
+        "author": "James Blish",
+        "awards": 1
+    },
+    {
+        "title": "THE SWORD OF SHANNARA",
+        "author": "Terry Brooks",
+        "awards": 1
+    },
+    {
+        "title": "WHERE LATE THE SWEET BIRDS SANG",
+        "author": "Kate Wilhelm",
+        "awards": 4
+    },
+    {
+        "title": "THE LITTLE PRINCE",
+        "author": "Antoine de Saint-Exupery",
+        "awards": 0
+    },
+    {
+        "title": "THE RINGWORLD ENGINEERS",
+        "author": "Larry Niven",
+        "awards": 2
+    },
+    {
+        "title": "THE DIFFERENCE ENGINE",
+        "author": "William GibsonBruce Sterling",
+        "awards": 4
+    },
+    {
+        "title": "PAWN OF PROPHECY",
+        "author": "David Eddings",
+        "awards": 0
+    },
+    {
+        "title": "THE HUNDRED THOUSAND KINGDOMS",
+        "author": "N. K. Jemisin",
+        "awards": 6
+    },
+    {
+        "title": "SUNDIVER",
+        "author": "David Brin",
+        "awards": 1
+    },
+    {
+        "title": "THE GIVER",
+        "author": "Lois Lowry",
+        "awards": 0
+    },
+    {
+        "title": "ACCELERANDO",
+        "author": "Charles Stross",
+        "awards": 5
+    },
+    {
+        "title": "JURASSIC PARK",
+        "author": "Michael Crichton",
+        "awards": 0
+    },
+    {
+        "title": "STORM FRONT",
+        "author": "Jim Butcher",
+        "awards": 0
+    },
+    {
+        "title": "A SPELL FOR CHAMELEON",
+        "author": "Piers Anthony",
+        "awards": 1
+    },
+    {
+        "title": "DIRK GENTLY'S HOLISTIC DETECTIVE AGENCY",
+        "author": "Douglas Adams",
+        "awards": 0
+    },
+    {
+        "title": "FRIDAY",
+        "author": "Robert A. Heinlein",
+        "awards": 4
+    },
+    {
+        "title": "TIMESCAPE",
+        "author": "Gregory Benford",
+        "awards": 4
+    },
+    {
+        "title": "GUARDS! GUARDS!",
+        "author": "Terry Pratchett",
+        "awards": 0
+    },
+    {
+        "title": "PYRAMIDS",
+        "author": "Terry Pratchett",
+        "awards": 1
+    },
+    {
+        "title": "ANNIHILATION",
+        "author": "Jeff VanderMeer",
+        "awards": 4
+    },
+    {
+        "title": "OUT OF THE SILENT PLANET",
+        "author": "C. S. Lewis",
+        "awards": 0
+    },
+    {
+        "title": "THE WISE MAN'S FEAR",
+        "author": "Patrick Rothfuss",
+        "awards": 2
+    },
+    {
+        "title": "ASSASSIN'S APPRENTICE",
+        "author": "Robin Hobb",
+        "awards": 1
+    },
+    {
+        "title": "THE CITADEL OF THE AUTARCH",
+        "author": "Gene Wolfe",
+        "awards": 4
+    },
+    {
+        "title": "THE LAST BATTLE",
+        "author": "C. S. Lewis",
+        "awards": 0
+    },
+    {
+        "title": "THE VAMPIRE LESTAT",
+        "author": "Anne Rice",
+        "awards": 2
+    },
+    {
+        "title": "THE TIME TRAVELER'S WIFE",
+        "author": "Audrey Niffenegger",
+        "awards": 3
+    },
+    {
+        "title": "ROBOTS AND EMPIRE",
+        "author": "Isaac Asimov",
+        "awards": 1
+    },
+    {
+        "title": "FEED",
+        "author": "Mira Grant",
+        "awards": 2
+    },
+    {
+        "title": "EON",
+        "author": "Greg Bear",
+        "awards": 1
+    },
+    {
+        "title": "THE DEAD ZONE",
+        "author": "Stephen King",
+        "awards": 1
+    },
+    {
+        "title": "CORALINE",
+        "author": "Neil Gaiman",
+        "awards": 1
+    },
+    {
+        "title": "WYRD SISTERS",
+        "author": "Terry Pratchett",
+        "awards": 0
+    },
+    {
+        "title": "CUJO",
+        "author": "Stephen King",
+        "awards": 1
+    },
+    {
+        "title": "HERETICS OF DUNE",
+        "author": "Frank Herbert",
+        "awards": 0
+    },
+    {
+        "title": "THE CURSE OF CHALION",
+        "author": "Lois McMaster Bujold",
+        "awards": 4
+    },
+    {
+        "title": "DREAMSNAKE",
+        "author": "Vonda N. McIntyre",
+        "awards": 3
+    },
+    {
+        "title": "MIRROR DANCE",
+        "author": "Lois McMaster Bujold",
+        "awards": 2
+    },
+    {
+        "title": "MAN PLUS",
+        "author": "Frederik Pohl",
+        "awards": 4
+    },
+    {
+        "title": "HOMINIDS",
+        "author": "Robert J. Sawyer",
+        "awards": 3
+    },
+    {
+        "title": "TAU ZERO",
+        "author": "Poul Anderson",
+        "awards": 1
+    },
+    {
+        "title": "QUICKSILVER",
+        "author": "Neal Stephenson",
+        "awards": 2
+    },
+    {
+        "title": "THE SPACE MERCHANTS",
+        "author": "Frederik PohlC. M. Kornbluth",
+        "awards": 0
+    },
+    {
+        "title": "PALADIN OF SOULS",
+        "author": "Lois McMaster Bujold",
+        "awards": 4
+    },
+    {
+        "title": "EARTH ABIDES",
+        "author": "George R. Stewart",
+        "awards": 0
+    },
+    {
+        "title": "FALLING FREE",
+        "author": "Lois McMaster Bujold",
+        "awards": 3
+    },
+    {
+        "title": "HIS MAJESTY'S DRAGON",
+        "author": "Naomi Novik",
+        "awards": 2
+    },
+    {
+        "title": "THE GREAT HUNT",
+        "author": "Robert Jordan",
+        "awards": 0
+    },
+    {
+        "title": "WIZARD AND GLASS",
+        "author": "Stephen King",
+        "awards": 1
+    },
+    {
+        "title": "ZOE'S TALE",
+        "author": "John Scalzi",
+        "awards": 3
+    },
+    {
+        "title": "THE ONCE AND FUTURE KING",
+        "author": "T. H. White",
+        "awards": 0
+    },
+    {
+        "title": "THE WARRIOR'S APPRENTICE",
+        "author": "Lois McMaster Bujold",
+        "awards": 0
+    },
+    {
+        "title": "THE DOOR INTO SUMMER",
+        "author": "Robert A. Heinlein",
+        "awards": 0
+    },
+    {
+        "title": "SOURCERY",
+        "author": "Terry Pratchett",
+        "awards": 0
+    },
+    {
+        "title": "EXCESSION",
+        "author": "Iain M. Banks",
+        "awards": 2
+    },
+    {
+        "title": "CLOUD ATLAS",
+        "author": "David Mitchell",
+        "awards": 2
+    },
+    {
+        "title": "THE DARK TOWER",
+        "author": "Stephen King",
+        "awards": 2
+    },
+    {
+        "title": "ROADSIDE PICNIC",
+        "author": "Arkady StrugatskyBoris Strugatsky",
+        "awards": 1
+    },
+    {
+        "title": "BLINDSIGHT",
+        "author": "Peter Watts",
+        "awards": 4
+    },
+    {
+        "title": "THE LIES OF LOCKE LAMORA",
+        "author": "Scott Lynch",
+        "awards": 3
+    },
+    {
+        "title": "2312",
+        "author": "Kim Stanley Robinson",
+        "awards": 7
+    },
+    {
+        "title": "VIRTUAL LIGHT",
+        "author": "William Gibson",
+        "awards": 3
+    },
+    {
+        "title": "WOLVES OF THE CALLA",
+        "author": "Stephen King",
+        "awards": 2
+    },
+    {
+        "title": "MAKING MONEY",
+        "author": "Terry Pratchett",
+        "awards": 2
+    },
+    {
+        "title": "THE GUNS OF AVALON",
+        "author": "Roger Zelazny",
+        "awards": 1
+    },
+    {
+        "title": "HOGFATHER",
+        "author": "Terry Pratchett",
+        "awards": 1
+    },
+    {
+        "title": "THE SNOW QUEEN",
+        "author": "Joan D. Vinge",
+        "awards": 3
+    },
+    {
+        "title": "FORWARD THE FOUNDATION",
+        "author": "Isaac Asimov",
+        "awards": 0
+    },
+    {
+        "title": "NIGHT WATCH",
+        "author": "Terry Pratchett",
+        "awards": 2
+    },
+    {
+        "title": "PATTERN RECOGNITION",
+        "author": "William Gibson",
+        "awards": 3
+    },
+    {
+        "title": "THE ANDROMEDA STRAIN",
+        "author": "Michael Crichton",
+        "awards": 0
+    },
+    {
+        "title": "PRENTICE ALVIN",
+        "author": "Orson Scott Card",
+        "awards": 4
+    },
+    {
+        "title": "THE DRAGON REBORN",
+        "author": "Robert Jordan",
+        "awards": 0
+    },
+    {
+        "title": "WIZARD'S FIRST RULE",
+        "author": "Terry Goodkind",
+        "awards": 0
+    },
+    {
+        "title": "THIS IMMORTAL",
+        "author": "Roger Zelazny",
+        "awards": 1
+    },
+    {
+        "title": "THE WELL OF ASCENSION",
+        "author": "Brandon Sanderson",
+        "awards": 0
+    },
+    {
+        "title": "THE ANUBIS GATES",
+        "author": "Tim Powers",
+        "awards": 3
+    },
+    {
+        "title": "LORD OF CHAOS",
+        "author": "Robert Jordan",
+        "awards": 1
+    },
+    {
+        "title": "JOB",
+        "author": "Robert A. Heinlein",
+        "awards": 3
+    },
+    {
+        "title": "CHAPTERHOUSE DUNE",
+        "author": "Frank Herbert",
+        "awards": 0
+    },
+    {
+        "title": "REAPER MAN",
+        "author": "Terry Pratchett",
+        "awards": 0
+    },
+    {
+        "title": "RED PROPHET",
+        "author": "Orson Scott Card",
+        "awards": 4
+    },
+    {
+        "title": "THE HERO OF AGES",
+        "author": "Brandon Sanderson",
+        "awards": 1
+    },
+    {
+        "title": "HEIR TO THE EMPIRE",
+        "author": "Timothy Zahn",
+        "awards": 0
+    },
+    {
+        "title": "SONG OF SUSANNAH",
+        "author": "Stephen King",
+        "awards": 1
+    },
+    {
+        "title": "ANCILLARY MERCY",
+        "author": "Ann Leckie",
+        "awards": 3
+    },
+    {
+        "title": "SEVENEVES",
+        "author": "Neal Stephenson",
+        "awards": 4
+    },
+    {
+        "title": "THE PUPPET MASTERS",
+        "author": "Robert A. Heinlein",
+        "awards": 0
+    },
+    {
+        "title": "BEYOND THE BLUE EVENT HORIZON",
+        "author": "Frederik Pohl",
+        "awards": 4
+    },
+    {
+        "title": "MAGICIAN: APPRENTICE",
+        "author": "Raymond E. Feist",
+        "awards": 0
+    },
+    {
+        "title": "THE END OF ETERNITY",
+        "author": "Isaac Asimov",
+        "awards": 0
+    },
+    {
+        "title": "CALIBAN'S WAR",
+        "author": "James S. A. Corey",
+        "awards": 1
+    },
+    {
+        "title": "THE ALGEBRAIST",
+        "author": "Iain M. Banks",
+        "awards": 2
+    },
+    {
+        "title": "MARTIAN TIME-SLIP",
+        "author": "Philip K. Dick",
+        "awards": 0
+    },
+    {
+        "title": "THE SHADOW RISING",
+        "author": "Robert Jordan",
+        "awards": 0
+    },
+    {
+        "title": "RAMA II",
+        "author": "Gentry LeeArthur C. Clarke",
+        "awards": 0
+    },
+    {
+        "title": "MEMORY",
+        "author": "Lois McMaster Bujold",
+        "awards": 3
+    },
+    {
+        "title": "A CIVIL CAMPAIGN",
+        "author": "Lois McMaster Bujold",
+        "awards": 3
+    },
+    {
+        "title": "ELRIC OF MELNIBONÉ",
+        "author": "Michael Moorcock",
+        "awards": 0
+    },
+    {
+        "title": "IRON COUNCIL",
+        "author": "China Miéville",
+        "awards": 4
+    },
+    {
+        "title": "CITY",
+        "author": "Clifford D. Simak",
+        "awards": 0
+    },
+    {
+        "title": "WE",
+        "author": "Yevgeny Zamyatin",
+        "awards": 0
+    },
+    {
+        "title": "FIGHT CLUB",
+        "author": "Chuck Palahniuk",
+        "awards": 0
+    },
+    {
+        "title": "MEN AT ARMS",
+        "author": "Terry Pratchett",
+        "awards": 0
+    },
+    {
+        "title": "SIGN OF THE UNICORN",
+        "author": "Roger Zelazny",
+        "awards": 0
+    },
+    {
+        "title": "THE WAY OF KINGS",
+        "author": "Brandon Sanderson",
+        "awards": 1
+    },
+    {
+        "title": "THE WOUNDED LAND",
+        "author": "Stephen R. Donaldson",
+        "awards": 3
+    },
+    {
+        "title": "THE SILENCE OF THE LAMBS",
+        "author": "Thomas Harris",
+        "awards": 2
+    },
+    {
+        "title": "THE BIG TIME",
+        "author": "Fritz Leiber",
+        "awards": 1
+    },
+    {
+        "title": "THE FIFTH ELEPHANT",
+        "author": "Terry Pratchett",
+        "awards": 1
+    },
+    {
+        "title": "A CONNECTICUT YANKEE IN KING ARTHUR'S COURT",
+        "author": "Mark Twain",
+        "awards": 0
+    },
+    {
+        "title": "THE INTEGRAL TREES",
+        "author": "Larry Niven",
+        "awards": 3
+    },
+    {
+        "title": "DYING INSIDE",
+        "author": "Robert Silverberg",
+        "awards": 3
+    },
+    {
+        "title": "THE FIRES OF HEAVEN",
+        "author": "Robert Jordan",
+        "awards": 0
+    },
+    {
+        "title": "MISSION OF GRAVITY",
+        "author": "Hal Clement",
+        "awards": 0
+    },
+    {
+        "title": "2061",
+        "author": "Arthur C. Clarke",
+        "awards": 0
+    },
+    {
+        "title": "STATION ELEVEN",
+        "author": "Emily St. John Mandel",
+        "awards": 3
+    },
+    {
+        "title": "WICKED",
+        "author": "Gregory Maguire",
+        "awards": 0
+    },
+    {
+        "title": "THE WASP FACTORY",
+        "author": "Iain M. Banks",
+        "awards": 0
+    },
+    {
+        "title": "LORD VALENTINE'S CASTLE",
+        "author": "Robert Silverberg",
+        "awards": 2
+    },
+    {
+        "title": "KRAKEN",
+        "author": "China Miéville",
+        "awards": 2
+    },
+    {
+        "title": "THE DROWNED WORLD",
+        "author": "J. G. Ballard",
+        "awards": 0
+    },
+    {
+        "title": "FEET OF CLAY",
+        "author": "Terry Pratchett",
+        "awards": 0
+    },
+    {
+        "title": "MOVING PICTURES",
+        "author": "Terry Pratchett",
+        "awards": 0
+    },
+    {
+        "title": "WITCHES ABROAD",
+        "author": "Terry Pratchett",
+        "awards": 0
+    },
+    {
+        "title": "ERIC",
+        "author": "Terry Pratchett",
+        "awards": 0
+    },
+    {
+        "title": "FIRESTARTER",
+        "author": "Stephen King",
+        "awards": 1
+    },
+    {
+        "title": "QUEEN OF SORCERY",
+        "author": "David Eddings",
+        "awards": 1
+    },
+    {
+        "title": "CYTEEN",
+        "author": "C. J. Cherryh",
+        "awards": 3
+    },
+    {
+        "title": "THE LONG DARK TEA-TIME OF THE SOUL",
+        "author": "Douglas Adams",
+        "awards": 0
+    },
+    {
+        "title": "THE METAMORPHOSIS",
+        "author": "Franz Kafka",
+        "awards": 0
+    },
+    {
+        "title": "CRYOBURN",
+        "author": "Lois McMaster Bujold",
+        "awards": 2
+    },
+    {
+        "title": "CHASM CITY",
+        "author": "Alastair Reynolds",
+        "awards": 1
+    },
+    {
+        "title": "SINGULARITY SKY",
+        "author": "Charles Stross",
+        "awards": 1
+    },
+    {
+        "title": "FOOTFALL",
+        "author": "Larry NivenJerry Pournelle",
+        "awards": 2
+    },
+    {
+        "title": "REDEMPTION ARK",
+        "author": "Alastair Reynolds",
+        "awards": 1
+    },
+    {
+        "title": "CETAGANDA",
+        "author": "Lois McMaster Bujold",
+        "awards": 1
+    },
+    {
+        "title": "THE COURTS OF CHAOS",
+        "author": "Roger Zelazny",
+        "awards": 0
+    },
+    {
+        "title": "DR. BLOODMONEY",
+        "author": "Philip K. Dick",
+        "awards": 1
+    },
+    {
+        "title": "THIEF OF TIME",
+        "author": "Terry Pratchett",
+        "awards": 1
+    },
+    {
+        "title": "THE HAND OF OBERON",
+        "author": "Roger Zelazny",
+        "awards": 0
+    },
+    {
+        "title": "FOOL MOON",
+        "author": "Jim Butcher",
+        "awards": 0
+    },
+    {
+        "title": "THE ILLEARTH WAR",
+        "author": "Stephen R. Donaldson",
+        "awards": 0
+    },
+    {
+        "title": "CAMOUFLAGE",
+        "author": "Joe Haldeman",
+        "awards": 2
+    },
+    {
+        "title": "TITAN",
+        "author": "John Varley",
+        "awards": 3
+    },
+    {
+        "title": "THUD!",
+        "author": "Terry Pratchett",
+        "awards": 1
+    },
+    {
+        "title": "MONSTROUS REGIMENT",
+        "author": "Terry Pratchett",
+        "awards": 1
+    },
+    {
+        "title": "GRASS",
+        "author": "Sheri S. Tepper",
+        "awards": 2
+    },
+    {
+        "title": "THE EINSTEIN INTERSECTION",
+        "author": "Samuel R. Delany",
+        "awards": 2
+    },
+    {
+        "title": "MATTER",
+        "author": "Iain M. Banks",
+        "awards": 2
+    },
+    {
+        "title": "ROYAL ASSASSIN",
+        "author": "Robin Hobb",
+        "awards": 1
+    },
+    {
+        "title": "VALIS",
+        "author": "Philip K. Dick",
+        "awards": 0
+    },
+    {
+        "title": "MAGICIAN'S GAMBIT",
+        "author": "David Eddings",
+        "awards": 0
+    },
+    {
+        "title": "NOVA",
+        "author": "Samuel R. Delany",
+        "awards": 1
+    },
+    {
+        "title": "UPROOTED",
+        "author": "Naomi Novik",
+        "awards": 6
+    },
+    {
+        "title": "THE YEARS OF RICE AND SALT",
+        "author": "Kim Stanley Robinson",
+        "awards": 4
+    },
+    {
+        "title": "SOUL MUSIC",
+        "author": "Terry Pratchett",
+        "awards": 0
+    },
+    {
+        "title": "THE BOOK OF THE NEW SUN, VOLUME 2",
+        "author": "Gene Wolfe",
+        "awards": 0
+    },
+    {
+        "title": "CITIES IN FLIGHT",
+        "author": "James Blish",
+        "awards": 0
+    },
+    {
+        "title": "THE POWER THAT PRESERVES",
+        "author": "Stephen R. Donaldson",
+        "awards": 0
+    },
+    {
+        "title": "GLORY ROAD",
+        "author": "Robert A. Heinlein",
+        "awards": 1
+    },
+    {
+        "title": "ABADDON'S GATE",
+        "author": "James S. A. Corey",
+        "awards": 1
+    },
+    {
+        "title": "THE TALISMAN",
+        "author": "Stephen KingPeter Straub",
+        "awards": 2
+    },
+    {
+        "title": "DANGEROUS VISIONS",
+        "author": "Harlan Ellison",
+        "awards": 0
+    },
+    {
+        "title": "NEEDFUL THINGS",
+        "author": "Stephen King",
+        "awards": 1
+    },
+    {
+        "title": "THE HAUNTING OF HILL HOUSE",
+        "author": "Shirley Jackson",
+        "awards": 0
+    },
+    {
+        "title": "THE LAST UNICORN",
+        "author": "Peter S. Beagle",
+        "awards": 0
+    },
+    {
+        "title": "PEBBLE IN THE SKY",
+        "author": "Isaac Asimov",
+        "awards": 0
+    },
+    {
+        "title": "THE TIME SHIPS",
+        "author": "Stephen Baxter",
+        "awards": 7
+    },
+    {
+        "title": "HALTING STATE",
+        "author": "Charles Stross",
+        "awards": 2
+    },
+    {
+        "title": "ALL CLEAR",
+        "author": "Connie Willis",
+        "awards": 0
+    },
+    {
+        "title": "THE GREEN MILE",
+        "author": "Stephen King",
+        "awards": 1
+    },
+    {
+        "title": "ZOO CITY",
+        "author": "Lauren Beukes",
+        "awards": 4
+    },
+    {
+        "title": "CASTLE OF WIZARDRY",
+        "author": "David Eddings",
+        "awards": 0
+    },
+    {
+        "title": "NEVER LET ME GO",
+        "author": "Kazuo Ishiguro",
+        "awards": 1
+    },
+    {
+        "title": "BEGGARS IN SPAIN",
+        "author": "Nancy Kress",
+        "awards": 5
+    },
+    {
+        "title": "THE FORGE OF GOD",
+        "author": "Greg Bear",
+        "awards": 3
+    },
+    {
+        "title": "A FALL OF MOONDUST",
+        "author": "Arthur C. Clarke",
+        "awards": 1
+    },
+    {
+        "title": "THE SANDMAN: THE DOLL'S HOUSE",
+        "author": "Neil Gaiman",
+        "awards": 0
+    },
+    {
+        "title": "LORDS AND LADIES",
+        "author": "Terry Pratchett",
+        "awards": 0
+    },
+    {
+        "title": "ORYX AND CRAKE",
+        "author": "Margaret Atwood",
+        "awards": 0
+    },
+    {
+        "title": "INTERESTING TIMES",
+        "author": "Terry Pratchett",
+        "awards": 0
+    },
+    {
+        "title": "THE MANY-COLORED LAND",
+        "author": "Julian May",
+        "awards": 5
+    },
+    {
+        "title": "PASSAGE",
+        "author": "Connie Willis",
+        "awards": 5
+    },
+    {
+        "title": "ENCHANTERS' END GAME",
+        "author": "David Eddings",
+        "awards": 0
+    },
+    {
+        "title": "THE SPEED OF DARK",
+        "author": "Elizabeth Moon",
+        "awards": 3
+    },
+    {
+        "title": "A CROWN OF SWORDS",
+        "author": "Robert Jordan",
+        "awards": 0
+    },
+    {
+        "title": "THE WORD FOR WORLD IS FOREST",
+        "author": "Ursula K. Le Guin",
+        "awards": 0
+    },
+    {
+        "title": "THE STAINLESS STEEL RAT",
+        "author": "Harry Harrison",
+        "awards": 0
+    },
+    {
+        "title": "UNDER THE DOME",
+        "author": "Stephen King",
+        "awards": 1
+    },
+    {
+        "title": "BRIGHTNESS REEF",
+        "author": "David Brin",
+        "awards": 2
+    },
+    {
+        "title": "DIPLOMATIC IMMUNITY",
+        "author": "Lois McMaster Bujold",
+        "awards": 1
+    },
+    {
+        "title": "SPHERE",
+        "author": "Michael Crichton",
+        "awards": 0
+    },
+    {
+        "title": "ASSASSIN'S QUEST",
+        "author": "Robin Hobb",
+        "awards": 1
+    },
+    {
+        "title": "THE QUEEN OF THE DAMNED",
+        "author": "Anne Rice",
+        "awards": 1
+    },
+    {
+        "title": "THE FIFTH HEAD OF CERBERUS",
+        "author": "Gene Wolfe",
+        "awards": 0
+    },
+    {
+        "title": "THE GOBLIN EMPEROR",
+        "author": "Katherine Addison",
+        "awards": 4
+    },
+    {
+        "title": "BROTHERS IN ARMS",
+        "author": "Lois McMaster Bujold",
+        "awards": 0
+    },
+    {
+        "title": "PERELANDRA",
+        "author": "C. S. Lewis",
+        "awards": 0
+    },
+    {
+        "title": "OLYMPOS",
+        "author": "Dan Simmons",
+        "awards": 1
+    },
+    {
+        "title": "MORETA",
+        "author": "Anne McCaffrey",
+        "awards": 1
+    },
+    {
+        "title": "ABSOLUTION GAP",
+        "author": "Alastair Reynolds",
+        "awards": 1
+    },
+    {
+        "title": "SATURN'S CHILDREN",
+        "author": "Charles Stross",
+        "awards": 3
+    },
+    {
+        "title": "MOVING MARS",
+        "author": "Greg Bear",
+        "awards": 4
+    },
+    {
+        "title": "V FOR VENDETTA",
+        "author": "Alan MooreDavid Lloyd",
+        "awards": 1
+    },
+    {
+        "title": "THE MIDWICH CUCKOOS",
+        "author": "John Wyndham",
+        "awards": 0
+    },
+    {
+        "title": "THE TRIAL",
+        "author": "Franz Kafka",
+        "awards": 0
+    },
+    {
+        "title": "PARABLE OF THE SOWER",
+        "author": "Octavia E. Butler",
+        "awards": 2
+    },
+    {
+        "title": "SHADOW PUPPETS",
+        "author": "Orson Scott Card",
+        "awards": 0
+    },
+    {
+        "title": "LOOK TO WINDWARD",
+        "author": "Iain M. Banks",
+        "awards": 0
+    },
+    {
+        "title": "THE STARS, LIKE DUST",
+        "author": "Isaac Asimov",
+        "awards": 0
+    },
+    {
+        "title": "JINGO",
+        "author": "Terry Pratchett",
+        "awards": 0
+    },
+    {
+        "title": "BEHOLD THE MAN",
+        "author": "Michael Moorcock",
+        "awards": 0
+    },
+    {
+        "title": "THE CHRYSALIDS",
+        "author": "John Wyndham",
+        "awards": 0
+    },
+    {
+        "title": "GARDENS OF THE MOON",
+        "author": "Steven Erikson",
+        "awards": 1
+    },
+    {
+        "title": "THE SANDMAN: DREAM COUNTRY",
+        "author": "Neil Gaiman",
+        "awards": 0
+    },
+    {
+        "title": "MASKERADE",
+        "author": "Terry Pratchett",
+        "awards": 0
+    },
+    {
+        "title": "SEEKER",
+        "author": "Jack McDevitt",
+        "awards": 2
+    },
+    {
+        "title": "ALL THE WEYRS OF PERN",
+        "author": "Anne McCaffrey",
+        "awards": 2
+    },
+    {
+        "title": "THE ATROCITY ARCHIVES",
+        "author": "Charles Stross",
+        "awards": 1
+    },
+    {
+        "title": "HELLICONIA SPRING",
+        "author": "Brian W. Aldiss",
+        "awards": 3
+    },
+    {
+        "title": "THE CHRONOLITHS",
+        "author": "Robert Charles Wilson",
+        "awards": 4
+    },
+    {
+        "title": "THE ONE TREE",
+        "author": "Stephen R. Donaldson",
+        "awards": 2
+    },
+    {
+        "title": "GRAVE PERIL",
+        "author": "Jim Butcher",
+        "awards": 0
+    },
+    {
+        "title": "DORSAI!",
+        "author": "Gordon R. Dickson",
+        "awards": 1
+    },
+    {
+        "title": "ETHAN OF ATHOS",
+        "author": "Lois McMaster Bujold",
+        "awards": 0
+    },
+    {
+        "title": "THE EXORCIST",
+        "author": "William Peter Blatty",
+        "awards": 0
+    },
+    {
+        "title": "THE TRUTH",
+        "author": "Terry Pratchett",
+        "awards": 1
+    },
+    {
+        "title": "THE GARDEN OF RAMA",
+        "author": "Arthur C. ClarkeGentry Lee",
+        "awards": 0
+    },
+    {
+        "title": "11/22/63",
+        "author": "Stephen King",
+        "awards": 3
+    },
+    {
+        "title": "TIME OUT OF JOINT",
+        "author": "Philip K. Dick",
+        "awards": 0
+    },
+    {
+        "title": "THE DERVISH HOUSE",
+        "author": "Ian McDonald",
+        "awards": 5
+    },
+    {
+        "title": "THE LOST WORLD",
+        "author": "Arthur Conan Doyle",
+        "awards": 0
+    },
+    {
+        "title": "THE PATH OF DAGGERS",
+        "author": "Robert Jordan",
+        "awards": 0
+    },
+    {
+        "title": "DEATHWORLD 1",
+        "author": "Harry Harrison",
+        "awards": 1
+    },
+    {
+        "title": "INVERSIONS",
+        "author": "Iain M. Banks",
+        "awards": 1
+    },
+    {
+        "title": "KILN PEOPLE",
+        "author": "David Brin",
+        "awards": 4
+    },
+    {
+        "title": "NON-STOP",
+        "author": "Brian W. Aldiss",
+        "awards": 0
+    },
+    {
+        "title": "THE INVERTED WORLD",
+        "author": "Christopher Priest",
+        "awards": 2
+    },
+    {
+        "title": "CALCULATING GOD",
+        "author": "Robert J. Sawyer",
+        "awards": 3
+    },
+    {
+        "title": "GLASSHOUSE",
+        "author": "Charles Stross",
+        "awards": 5
+    },
+    {
+        "title": "THE WEE FREE MEN",
+        "author": "Terry Pratchett",
+        "awards": 1
+    },
+    {
+        "title": "THE EYRE AFFAIR",
+        "author": "Jasper Fforde",
+        "awards": 1
+    },
+    {
+        "title": "THE LAST CONTINENT",
+        "author": "Terry Pratchett",
+        "awards": 0
+    },
+    {
+        "title": "WHITE GOLD WIELDER",
+        "author": "Stephen R. Donaldson",
+        "awards": 1
+    },
+    {
+        "title": "THE SANDMAN: SEASON OF MISTS",
+        "author": "Neil Gaiman",
+        "awards": 0
+    },
+    {
+        "title": "NIGHT SHIFT",
+        "author": "Stephen King",
+        "awards": 0
+    },
+    {
+        "title": "THAT HIDEOUS STRENGTH",
+        "author": "C. S. Lewis",
+        "awards": 0
+    },
+    {
+        "title": "SURFACE DETAIL",
+        "author": "Iain M. Banks",
+        "awards": 1
+    },
+    {
+        "title": "PLAYER PIANO",
+        "author": "Kurt Vonnegut, Jr.",
+        "awards": 0
+    },
+    {
+        "title": "AT THE MOUNTAINS OF MADNESS AND OTHER TALES OF TERROR",
+        "author": "H. P. Lovecraft",
+        "awards": 0
+    },
+    {
+        "title": "THE MIST",
+        "author": "Stephen King",
+        "awards": 1
+    },
+    {
+        "title": "THE MASTER AND MARGARITA",
+        "author": "Mikhail Bulgakov",
+        "awards": 0
+    },
+    {
+        "title": "WEAVEWORLD",
+        "author": "Clive Barker",
+        "awards": 2
+    },
+    {
+        "title": "ELRIC",
+        "author": "Michael Moorcock",
+        "awards": 0
+    },
+    {
+        "title": "SKELETON CREW",
+        "author": "Stephen King",
+        "awards": 0
+    },
+    {
+        "title": "3001",
+        "author": "Arthur C. Clarke",
+        "awards": 0
+    },
+    {
+        "title": "DHALGREN",
+        "author": "Samuel R. Delany",
+        "awards": 2
+    },
+    {
+        "title": "DEADLINE",
+        "author": "Mira Grant",
+        "awards": 2
+    },
+    {
+        "title": "ON BASILISK STATION",
+        "author": "David Weber",
+        "awards": 0
+    },
+    {
+        "title": "THE SWORD IN THE STONE",
+        "author": "T. H. White",
+        "awards": 0
+    },
+    {
+        "title": "CARPE JUGULUM",
+        "author": "Terry Pratchett",
+        "awards": 0
+    },
+    {
+        "title": "TITUS GROAN",
+        "author": "Mervyn Peake",
+        "awards": 0
+    },
+    {
+        "title": "THE SYSTEM OF THE WORLD",
+        "author": "Neal Stephenson",
+        "awards": 3
+    },
+    {
+        "title": "CAPTAIN VORPATRIL'S ALLIANCE",
+        "author": "Lois McMaster Bujold",
+        "awards": 2
+    },
+    {
+        "title": "THE SANDMAN: A GAME OF YOU",
+        "author": "Neil Gaiman",
+        "awards": 0
+    },
+    {
+        "title": "THE CURRENTS OF SPACE",
+        "author": "Isaac Asimov",
+        "awards": 0
+    },
+    {
+        "title": "SONG OF KALI",
+        "author": "Dan Simmons",
+        "awards": 1
+    },
+    {
+        "title": "THE QUANTUM THIEF",
+        "author": "Hannu Rajaniemi",
+        "awards": 2
+    },
+    {
+        "title": "TRUMPS OF DOOM",
+        "author": "Roger Zelazny",
+        "awards": 1
+    },
+    {
+        "title": "KINDRED",
+        "author": "Octavia E. Butler",
+        "awards": 0
+    },
+    {
+        "title": "DRAGONSONG",
+        "author": "Anne McCaffrey",
+        "awards": 0
+    },
+    {
+        "title": "KING OF THE MURGOS",
+        "author": "David Eddings",
+        "awards": 1
+    },
+    {
+        "title": "LAST AND FIRST MEN",
+        "author": "Olaf Stapledon",
+        "awards": 0
+    },
+    {
+        "title": "KOMARR",
+        "author": "Lois McMaster Bujold",
+        "awards": 0
+    },
+    {
+        "title": "RITE OF PASSAGE",
+        "author": "Alexei Panshin",
+        "awards": 2
+    },
+    {
+        "title": "PROTECTOR",
+        "author": "Larry Niven",
+        "awards": 2
+    },
+    {
+        "title": "SHADOW OF THE GIANT",
+        "author": "Orson Scott Card",
+        "awards": 0
+    },
+    {
+        "title": "WINTER'S HEART",
+        "author": "Robert Jordan",
+        "awards": 0
+    },
+    {
+        "title": "UNSEEN ACADEMICALS",
+        "author": "Terry Pratchett",
+        "awards": 1
+    },
+    {
+        "title": "THE PRESTIGE",
+        "author": "Christopher Priest",
+        "awards": 3
+    },
+    {
+        "title": "FARMER IN THE SKY",
+        "author": "Robert A. Heinlein",
+        "awards": 0
+    },
+    {
+        "title": "SUMMER KNIGHT",
+        "author": "Jim Butcher",
+        "awards": 0
+    },
+    {
+        "title": "THE LOST WORLD",
+        "author": "Michael Crichton",
+        "awards": 0
+    },
+    {
+        "title": "THE TURN OF THE SCREW",
+        "author": "Henry James",
+        "awards": 0
+    },
+    {
+        "title": "THE SOURCE OF MAGIC",
+        "author": "Piers Anthony",
+        "awards": 0
+    },
+    {
+        "title": "WWW: WAKE",
+        "author": "Robert J. Sawyer",
+        "awards": 3
+    },
+    {
+        "title": "THE NIGHT CIRCUS",
+        "author": "Erin Morgenstern",
+        "awards": 3
+    },
+    {
+        "title": "THE GOLEM AND THE JINNI",
+        "author": "Helene Wecker",
+        "awards": 5
+    },
+    {
+        "title": "FOUCAULT'S PENDULUM",
+        "author": "Umberto Eco",
+        "awards": 0
+    },
+    {
+        "title": "THE PEACE WAR",
+        "author": "Vernor Vinge",
+        "awards": 2
+    },
+    {
+        "title": "EARTH",
+        "author": "David Brin",
+        "awards": 2
+    },
+    {
+        "title": "BLOOD OF AMBER",
+        "author": "Roger Zelazny",
+        "awards": 1
+    },
+    {
+        "title": "THE OTHER WIND",
+        "author": "Ursula K. Le Guin",
+        "awards": 4
+    },
+    {
+        "title": "BAG OF BONES",
+        "author": "Stephen King",
+        "awards": 2
+    },
+    {
+        "title": "ALVIN JOURNEYMAN",
+        "author": "Orson Scott Card",
+        "awards": 1
+    },
+    {
+        "title": "SLAN",
+        "author": "A. E. Van Vogt",
+        "awards": 0
+    },
+    {
+        "title": "DOWN AND OUT IN THE MAGIC KINGDOM",
+        "author": "Cory Doctorow",
+        "awards": 2
+    },
+    {
+        "title": "THE BOOK OF SKULLS",
+        "author": "Robert Silverberg",
+        "awards": 3
+    },
+    {
+        "title": "THE ALLOY OF LAW",
+        "author": "Brandon Sanderson",
+        "awards": 1
+    },
+    {
+        "title": "CROSSROADS OF TWILIGHT",
+        "author": "Robert Jordan",
+        "awards": 0
+    },
+    {
+        "title": "A MEMORY OF LIGHT",
+        "author": "Robert JordanBrandon Sanderson",
+        "awards": 2
+    },
+    {
+        "title": "TIGANA",
+        "author": "Guy Gavriel Kay",
+        "awards": 4
+    },
+    {
+        "title": "THE ACCIDENTAL TIME MACHINE",
+        "author": "Joe Haldeman",
+        "awards": 2
+    },
+    {
+        "title": "THE AMAZING ADVENTURES OF KAVALIER & CLAY",
+        "author": "Michael Chabon",
+        "awards": 0
+    },
+    {
+        "title": "LITTLE, BIG",
+        "author": "John Crowley",
+        "awards": 6
+    },
+    {
+        "title": "THE SAILOR ON THE SEAS OF FATE",
+        "author": "Michael Moorcock",
+        "awards": 1
+    },
+    {
+        "title": "FEERSUM ENDJINN",
+        "author": "Iain M. Banks",
+        "awards": 1
+    },
+    {
+        "title": "THE TERMINAL EXPERIMENT",
+        "author": "Robert J. Sawyer",
+        "awards": 3
+    },
+    {
+        "title": "ERAGON",
+        "author": "Christopher Paolini",
+        "awards": 0
+    },
+    {
+        "title": "THE ENGINES OF GOD",
+        "author": "Jack McDevitt",
+        "awards": 1
+    },
+    {
+        "title": "RAMA REVEALED",
+        "author": "Arthur C. ClarkeGentry Lee",
+        "awards": 0
+    },
+    {
+        "title": "IRON SUNRISE",
+        "author": "Charles Stross",
+        "awards": 2
+    },
+    {
+        "title": "THE GATHERING STORM",
+        "author": "Robert JordanBrandon Sanderson",
+        "awards": 1
+    },
+    {
+        "title": "THRONE OF THE CRESCENT MOON",
+        "author": "Saladin Ahmed",
+        "awards": 4
+    },
+    {
+        "title": "THE WANDERER",
+        "author": "Fritz Leiber",
+        "awards": 1
+    },
+    {
+        "title": "REPLAY",
+        "author": "Ken Grimwood",
+        "awards": 2
+    },
+    {
+        "title": "GALAPAGOS",
+        "author": "Kurt Vonnegut, Jr.",
+        "awards": 1
+    },
+    {
+        "title": "HOUSE OF SUNS",
+        "author": "Alastair Reynolds",
+        "awards": 1
+    },
+    {
+        "title": "THE FEMALE MAN",
+        "author": "Joanna Russ",
+        "awards": 1
+    },
+    {
+        "title": "A HAT FULL OF SKY",
+        "author": "Terry Pratchett",
+        "awards": 1
+    },
+    {
+        "title": "IDORU",
+        "author": "William Gibson",
+        "awards": 0
+    },
+    {
+        "title": "THE LOVELY BONES",
+        "author": "Alice Sebold",
+        "awards": 1
+    },
+    {
+        "title": "THE CRYSTAL CAVE",
+        "author": "Mary Stewart",
+        "awards": 1
+    },
+    {
+        "title": "STAR MAKER",
+        "author": "Olaf Stapledon",
+        "awards": 0
+    },
+    {
+        "title": "THE FIFTH SEASON",
+        "author": "N. K. Jemisin",
+        "awards": 5
+    },
+    {
+        "title": "DARK FORCE RISING",
+        "author": "Timothy Zahn",
+        "awards": 0
+    },
+    {
+        "title": "INSOMNIA",
+        "author": "Stephen King",
+        "awards": 1
+    },
+    {
+        "title": "PARABLE OF THE TALENTS",
+        "author": "Octavia E. Butler",
+        "awards": 3
+    },
+    {
+        "title": "TIMELINE",
+        "author": "Michael Crichton",
+        "awards": 0
+    },
+    {
+        "title": "THE SANDMAN: FABLES & REFLECTIONS",
+        "author": "Neil Gaiman",
+        "awards": 0
+    },
+    {
+        "title": "BELOVED",
+        "author": "Toni Morrison",
+        "awards": 0
+    },
+    {
+        "title": "HEECHEE RENDEZVOUS",
+        "author": "Frederik Pohl",
+        "awards": 1
+    },
+    {
+        "title": "CASTLE ROOGNA",
+        "author": "Piers Anthony",
+        "awards": 1
+    },
+    {
+        "title": "THE CONFUSION",
+        "author": "Neal Stephenson",
+        "awards": 0
+    },
+    {
+        "title": "THE STATE OF THE ART",
+        "author": "Iain M. Banks",
+        "awards": 0
+    },
+    {
+        "title": "HOTHOUSE / THE LONG AFTERNOON OF EARTH",
+        "author": "Brian W. Aldiss",
+        "awards": 0
+    },
+    {
+        "title": "THE SANDMAN: BRIEF LIVES",
+        "author": "Neil Gaiman",
+        "awards": 0
+    },
+    {
+        "title": "PUSHING ICE",
+        "author": "Alastair Reynolds",
+        "awards": 1
+    },
+    {
+        "title": "THE EYES OF THE DRAGON",
+        "author": "Stephen King",
+        "awards": 0
+    },
+    {
+        "title": "REAMDE",
+        "author": "Neal Stephenson",
+        "awards": 0
+    },
+    {
+        "title": "FLATLAND",
+        "author": "Edwin A. Abbott",
+        "awards": 0
+    },
+    {
+        "title": "MAROONED IN REALTIME",
+        "author": "Vernor Vinge",
+        "awards": 2
+    },
+    {
+        "title": "LOCK IN",
+        "author": "John Scalzi",
+        "awards": 2
+    },
+    {
+        "title": "FEVRE DREAM",
+        "author": "George R. R. Martin",
+        "awards": 2
+    },
+    {
+        "title": "THE MAGICIANS",
+        "author": "Lev Grossman",
+        "awards": 1
+    },
+    {
+        "title": "LITTLE FUZZY",
+        "author": "H. Beam Piper",
+        "awards": 1
+    },
+    {
+        "title": "ROCANNON'S WORLD",
+        "author": "Ursula K. Le Guin",
+        "awards": 0
+    },
+    {
+        "title": "KUSHIEL'S DART",
+        "author": "Jacqueline Carey",
+        "awards": 1
+    },
+    {
+        "title": "DEATH MASKS",
+        "author": "Jim Butcher",
+        "awards": 0
+    },
+    {
+        "title": "KNIFE OF DREAMS",
+        "author": "Robert Jordan",
+        "awards": 0
+    },
+    {
+        "title": "BURNING CHROME (COLLECTION)",
+        "author": "William Gibson",
+        "awards": 0
+    },
+    {
+        "title": "THE BLADE ITSELF",
+        "author": "Joe Abercrombie",
+        "awards": 0
+    },
+    {
+        "title": "ROSEMARY'S BABY",
+        "author": "Ira Levin",
+        "awards": 0
+    },
+    {
+        "title": "TOWERS OF MIDNIGHT",
+        "author": "Robert JordanBrandon Sanderson",
+        "awards": 1
+    },
+    {
+        "title": "DUNE",
+        "author": "Frank Herbert",
+        "awards": 1
+    },
+    {
+        "title": "THE LAST COMMAND",
+        "author": "Timothy Zahn",
+        "awards": 0
+    },
+    {
+        "title": "DANDELION WINE",
+        "author": "Ray Bradbury",
+        "awards": 0
+    },
+    {
+        "title": "THE ELFSTONES OF SHANNARA",
+        "author": "Terry Brooks",
+        "awards": 0
+    },
+    {
+        "title": "SIGN OF CHAOS",
+        "author": "Roger Zelazny",
+        "awards": 1
+    },
+    {
+        "title": "WORDS OF RADIANCE",
+        "author": "Brandon Sanderson",
+        "awards": 1
+    },
+    {
+        "title": "MAKE ROOM! MAKE ROOM!",
+        "author": "Harry Harrison",
+        "awards": 0
+    },
+    {
+        "title": "BELLWETHER",
+        "author": "Connie Willis",
+        "awards": 1
+    },
+    {
+        "title": "THE SANDMAN: WORLDS' END",
+        "author": "Neil Gaiman",
+        "awards": 0
+    },
+    {
+        "title": "THE CAT WHO WALKS THROUGH WALLS",
+        "author": "Robert A. Heinlein",
+        "awards": 0
+    },
+    {
+        "title": "THE JENNIFER MORGUE",
+        "author": "Charles Stross",
+        "awards": 1
+    },
+    {
+        "title": "HUMANS",
+        "author": "Robert J. Sawyer",
+        "awards": 2
+    }
+]
