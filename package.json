@@ -1,0 +1,19 @@
+{
+  "name": "sedc5-ajs",
+  "version": "1.0.0",
+  "description": "Materials for advance javascript for CodeCademy v5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sedc-codecademy/sedc5-ajs.git"
+  },
+  "author": "Wekoslav Stefanovski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sedc-codecademy/sedc5-ajs/issues"
+  },
+  "homepage": "https://github.com/sedc-codecademy/sedc5-ajs#readme"
+}

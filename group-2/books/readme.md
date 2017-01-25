@@ -1,3 +1,5 @@
 # Exercise for functional javascript
 
 1. Load the file with the books and display it (on console or on the screen)
+
+2. For each item in the json array, display a row in the table.
