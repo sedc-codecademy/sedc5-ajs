@@ -1,0 +1,502 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "img": "https://images.gr-assets.com/books/1361975680s/2657.jpg"
+    },
+    {
+        "title": "Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",
+        "author": "J.K. Rowling",
+        "img": "https://images.gr-assets.com/books/1474154022s/3.jpg"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "img": "https://images.gr-assets.com/books/1348990566s/5470.jpg"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "img": "https://images.gr-assets.com/books/1320399351s/1885.jpg"
+    },
+    {
+        "title": "The Diary of a Young Girl",
+        "author": "Anne Frank",
+        "img": "https://images.gr-assets.com/books/1358276407s/48855.jpg"
+    },
+    {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "img": "https://images.gr-assets.com/books/1424037542s/7613.jpg"
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "img": "https://images.gr-assets.com/books/1372847500s/5907.jpg"
+    },
+    {
+        "title": "The Little Prince",
+        "author": "Antoine de Saint-Exupéry",
+        "img": "https://images.gr-assets.com/books/1367545443s/157993.jpg"
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "img": "https://images.gr-assets.com/books/1480580717s/4671.jpg"
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "img": "https://images.gr-assets.com/books/1398034300s/5107.jpg"
+    },
+    {
+        "title": "The Lord of the Rings (The Lord of the Rings, #1-3)",
+        "author": "J.R.R. Tolkien",
+        "img": "https://images.gr-assets.com/books/1411114164s/33.jpg"
+    },
+    {
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "img": "https://images.gr-assets.com/books/1327867269s/10210.jpg"
+    },
+    {
+        "title": "Romeo and Juliet",
+        "author": "William Shakespeare",
+        "img": "https://images.gr-assets.com/books/1327872146s/18135.jpg"
+    },
+    {
+        "title": "The Chronicles of Narnia (Chronicles of Narnia, #1-7)",
+        "author": "C.S. Lewis",
+        "img": "https://images.gr-assets.com/books/1449868701s/11127.jpg"
+    },
+    {
+        "title": "Lord of the Flies",
+        "author": "William Golding",
+        "img": "https://images.gr-assets.com/books/1327869409s/7624.jpg"
+    },
+    {
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "img": "https://images.gr-assets.com/books/1390053681s/19063.jpg"
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+        "author": "J.K. Rowling",
+        "img": "https://images.gr-assets.com/books/1474171184s/136251.jpg"
+    },
+    {
+        "title": "The Giving Tree",
+        "author": "Shel Silverstein",
+        "img": "https://images.gr-assets.com/books/1174210942s/370493.jpg"
+    },
+    {
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "img": "https://images.gr-assets.com/books/1484565687s/77203.jpg"
+    },
+    {
+        "title": "The Giver (The Giver, #1)",
+        "author": "Lois Lowry",
+        "img": "https://images.gr-assets.com/books/1342493368s/3636.jpg"
+    },
+    {
+        "title": "Charlotte's Web",
+        "author": "E.B. White",
+        "img": "https://images.gr-assets.com/books/1439632243s/24178.jpg"
+    },
+    {
+        "title": "Green Eggs and Ham",
+        "author": "Dr. Seuss",
+        "img": "https://images.gr-assets.com/books/1468680100s/23772.jpg"
+    },
+    {
+        "title": "Little Women (Little Women, #1)",
+        "author": "Louisa May Alcott",
+        "img": "https://images.gr-assets.com/books/1388269517s/1934.jpg"
+    },
+    {
+        "title": "Of Mice and Men",
+        "author": "John Steinbeck",
+        "img": "https://images.gr-assets.com/books/1437235233s/890.jpg"
+    },
+    {
+        "title": "Alice's Adventures in Wonderland & Through the Looking-Glass",
+        "author": "Lewis Carroll",
+        "img": "https://images.gr-assets.com/books/1327872220s/24213.jpg"
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "img": "https://images.gr-assets.com/books/1388212715s/6185.jpg"
+    },
+    {
+        "title": "The Hunger Games (The Hunger Games, #1)",
+        "author": "Suzanne Collins",
+        "img": "https://images.gr-assets.com/books/1447303603s/2767052.jpg"
+    },
+    {
+        "title": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+        "author": "J.K. Rowling",
+        "img": "https://images.gr-assets.com/books/1362278317s/5.jpg"
+    },
+    {
+        "title": "Gone with the Wind",
+        "author": "Margaret Mitchell",
+        "img": "https://images.gr-assets.com/books/1328025229s/18405.jpg"
+    },
+    {
+        "title": "Night",
+        "author": "Elie Wiesel",
+        "img": "https://images.gr-assets.com/books/1473495285s/1617.jpg"
+    },
+    {
+        "title": "Holy Bible: King James Version",
+        "author": "Anonymous",
+        "img": "https://images.gr-assets.com/books/1313518530s/1923820.jpg"
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "img": "https://images.gr-assets.com/books/1424596966s/5297.jpg"
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "img": "https://images.gr-assets.com/books/1351643740s/4381.jpg"
+    },
+    {
+        "title": "The Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "img": "https://images.gr-assets.com/books/1405973850s/2956.jpg"
+    },
+    {
+        "title": "Harry Potter and the Goblet of Fire (Harry Potter, #4)",
+        "author": "J.K. Rowling",
+        "img": "https://images.gr-assets.com/books/1361482611s/6.jpg"
+    },
+    {
+        "title": "Hamlet",
+        "author": "William Shakespeare",
+        "img": "https://images.gr-assets.com/books/1351051208s/1420.jpg"
+    },
+    {
+        "title": "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
+        "author": "Douglas Adams",
+        "img": "https://images.gr-assets.com/books/1327656754s/11.jpg"
+    },
+    {
+        "title": "Harry Potter and the Half-Blood Prince (Harry Potter, #6)",
+        "author": "J.K. Rowling",
+        "img": "https://images.gr-assets.com/books/1361039191s/1.jpg"
+    },
+    {
+        "title": "Brave New World / Brave New World Revisited",
+        "author": "Aldous Huxley",
+        "img": "https://images.gr-assets.com/books/1331315450s/5479.jpg"
+    },
+    {
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "img": "https://images.gr-assets.com/books/1411852091s/24280.jpg"
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoyevsky",
+        "img": "https://images.gr-assets.com/books/1382846449s/7144.jpg"
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "img": "https://images.gr-assets.com/books/1483412266s/865.jpg"
+    },
+    {
+        "title": "Memoirs of a Geisha",
+        "author": "Arthur Golden",
+        "img": "https://images.gr-assets.com/books/1388367666s/930.jpg"
+    },
+    {
+        "title": "The Secret Garden",
+        "author": "Frances Hodgson Burnett",
+        "img": "https://images.gr-assets.com/books/1327873635s/2998.jpg"
+    },
+    {
+        "title": "The Cat in the Hat",
+        "author": "Dr. Seuss",
+        "img": "https://images.gr-assets.com/books/1468890477s/233093.jpg"
+    },
+    {
+        "title": "The Lion, the Witch, and the Wardrobe (Chronicles of Narnia, #1)",
+        "author": "C.S. Lewis",
+        "img": "https://images.gr-assets.com/books/1353029077s/100915.jpg"
+    },
+    {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "img": "https://images.gr-assets.com/books/1390173285s/1381.jpg"
+    },
+    {
+        "title": "The Help",
+        "author": "Kathryn Stockett",
+        "img": "https://images.gr-assets.com/books/1346100365s/4667024.jpg"
+    },
+    {
+        "title": "A Christmas Carol",
+        "author": "Charles Dickens",
+        "img": "https://images.gr-assets.com/books/1406512317s/5326.jpg"
+    },
+    {
+        "title": "Where the Sidewalk Ends",
+        "author": "Shel Silverstein",
+        "img": "https://images.gr-assets.com/books/1168052448s/30119.jpg"
+    },
+    {
+        "title": "The Color Purple",
+        "author": "Alice Walker",
+        "img": "https://images.gr-assets.com/books/1386925078s/11486.jpg"
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "img": "https://images.gr-assets.com/books/1375670575s/18114322.jpg"
+    },
+    {
+        "title": "Where the Wild Things Are",
+        "author": "Maurice Sendak",
+        "img": "https://images.gr-assets.com/books/1384434560s/19543.jpg"
+    },
+    {
+        "title": "The Outsiders",
+        "author": "S.E. Hinton",
+        "img": "https://images.gr-assets.com/books/1442129426s/231804.jpg"
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez",
+        "img": "https://images.gr-assets.com/books/1327881361s/320.jpg"
+    },
+    {
+        "title": "The Adventures of Tom Sawyer",
+        "author": "Mark Twain",
+        "img": "https://images.gr-assets.com/books/1404811979s/24583.jpg"
+    },
+    {
+        "title": "Ender's Game (Ender's Saga, #1)",
+        "author": "Orson Scott Card",
+        "img": "https://images.gr-assets.com/books/1408303130s/375802.jpg"
+    },
+    {
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "img": "https://images.gr-assets.com/books/1344922523s/1953.jpg"
+    },
+    {
+        "title": "Anne of Green Gables (Anne of Green Gables, #1)",
+        "author": "L.M. Montgomery",
+        "img": "https://images.gr-assets.com/books/1390789015s/8127.jpg"
+    },
+    {
+        "title": "A Thousand Splendid Suns",
+        "author": "Khaled Hosseini",
+        "img": "https://images.gr-assets.com/books/1345958969s/128029.jpg"
+    },
+    {
+        "title": "Life of Pi",
+        "author": "Yann Martel",
+        "img": "https://images.gr-assets.com/books/1320562005s/4214.jpg"
+    },
+    {
+        "title": "Oh, The Places You'll Go!",
+        "author": "Dr. Seuss",
+        "img": "https://images.gr-assets.com/books/1421708635s/191139.jpg"
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "author": "Ken Kesey",
+        "img": "https://images.gr-assets.com/books/1485308778s/332613.jpg"
+    },
+    {
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas",
+        "img": "https://images.gr-assets.com/books/1309203605s/7126.jpg"
+    },
+    {
+        "title": "Winnie-the-Pooh (Winnie-the-Pooh, #1)",
+        "author": "A.A. Milne",
+        "img": "https://images.gr-assets.com/books/1298440130s/99107.jpg"
+    },
+    {
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "img": "https://images.gr-assets.com/books/1452709554s/151.jpg"
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "img": "https://images.gr-assets.com/books/1469704347s/17470674.jpg"
+    },
+    {
+        "title": "Tuesdays with Morrie",
+        "author": "Mitch Albom",
+        "img": "https://images.gr-assets.com/books/1423763749s/6900.jpg"
+    },
+    {
+        "title": "Flowers for Algernon",
+        "author": "Daniel Keyes",
+        "img": "https://images.gr-assets.com/books/1367141311s/18373.jpg"
+    },
+    {
+        "title": "Catch-22",
+        "author": "Joseph Heller",
+        "img": "https://images.gr-assets.com/books/1463157317s/168668.jpg"
+    },
+    {
+        "title": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut",
+        "img": "https://images.gr-assets.com/books/1440319389s/4981.jpg"
+    },
+    {
+        "title": "The Fellowship of the Ring (The Lord of the Rings, #1)",
+        "author": "J.R.R. Tolkien",
+        "img": "https://images.gr-assets.com/books/1298411339s/34.jpg"
+    },
+    {
+        "title": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "img": "https://images.gr-assets.com/books/1329189714s/2165.jpg"
+    },
+    {
+        "title": "The Scarlet Letter",
+        "author": "Nathaniel Hawthorne",
+        "img": "https://images.gr-assets.com/books/1404810944s/12296.jpg"
+    },
+    {
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "img": "https://images.gr-assets.com/books/1381512375s/18490.jpg"
+    },
+    {
+        "title": "Macbeth",
+        "author": "William Shakespeare",
+        "img": "https://images.gr-assets.com/books/1459795224s/8852.jpg"
+    },
+    {
+        "title": "Twilight (Twilight, #1)",
+        "author": "Stephenie Meyer",
+        "img": "https://images.gr-assets.com/books/1361039443s/41865.jpg"
+    },
+    {
+        "title": "The Time Traveler's Wife",
+        "author": "Audrey Niffenegger",
+        "img": "https://images.gr-assets.com/books/1380660571s/18619684.jpg"
+    },
+    {
+        "title": "The Handmaid's Tale",
+        "author": "Margaret Atwood",
+        "img": "https://images.gr-assets.com/books/1473094781s/38447.jpg"
+    },
+    {
+        "title": "Lolita",
+        "author": "Vladimir Nabokov",
+        "img": "https://images.gr-assets.com/books/1377756377s/7604.jpg"
+    },
+    {
+        "title": "Siddhartha",
+        "author": "Hermann Hesse",
+        "img": "https://images.gr-assets.com/books/1428715580s/52036.jpg"
+    },
+    {
+        "title": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "img": "https://images.gr-assets.com/books/1359061917s/485894.jpg"
+    },
+    {
+        "title": "Goodnight Moon",
+        "author": "Margaret Wise Brown",
+        "img": "https://images.gr-assets.com/books/1439223893s/32929.jpg"
+    },
+    {
+        "title": "The Stranger",
+        "author": "Albert Camus",
+        "img": "https://images.gr-assets.com/books/1349927872s/49552.jpg"
+    },
+    {
+        "title": "The Little House Collection (Little House, #1-9)",
+        "author": "Laura Ingalls Wilder",
+        "img": "https://images.gr-assets.com/books/1266475076s/114345.jpg"
+    },
+    {
+        "title": "A Tree Grows in Brooklyn",
+        "author": "Betty  Smith",
+        "img": "https://images.gr-assets.com/books/1327883484s/14891.jpg"
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "img": "https://images.gr-assets.com/books/1413215930s/656.jpg"
+    },
+    {
+        "title": "Uncle Tom's Cabin",
+        "author": "Harriet Beecher Stowe",
+        "img": "https://images.gr-assets.com/books/1414349231s/46787.jpg"
+    },
+    {
+        "title": "The Stand",
+        "author": "Stephen King",
+        "img": "https://images.gr-assets.com/books/1213131305s/149267.jpg"
+    },
+    {
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes Saavedra",
+        "img": "https://images.gr-assets.com/books/1364958765s/3836.jpg"
+    },
+    {
+        "title": "All Quiet on the Western Front",
+        "author": "Erich Maria Remarque",
+        "img": "https://images.gr-assets.com/books/1441227765s/355697.jpg"
+    },
+    {
+        "title": "Atlas Shrugged",
+        "author": "Ayn Rand",
+        "img": "https://images.gr-assets.com/books/1405868167s/662.jpg"
+    },
+    {
+        "title": "The Qur'an / القرآن الكريم",
+        "author": "Anonymous",
+        "img": "https://images.gr-assets.com/books/1275263838s/646462.jpg"
+    },
+    {
+        "title": "The Poisonwood Bible",
+        "author": "Barbara Kingsolver",
+        "img": "https://images.gr-assets.com/books/1412242487s/7244.jpg"
+    },
+    {
+        "title": "The Book of Mormon: Another Testament of Jesus Christ",
+        "author": "Joseph Smith Jr.",
+        "img": "https://images.gr-assets.com/books/1327389004s/323355.jpg"
+    },
+    {
+        "title": "Moby-Dick; or, The Whale",
+        "author": "Herman Melville",
+        "img": "https://images.gr-assets.com/books/1327940656s/153747.jpg"
+    },
+    {
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoyevsky",
+        "img": "https://images.gr-assets.com/books/1427728126s/4934.jpg"
+    },
+    {
+        "title": "The Good Earth (House of Earth, #1)",
+        "author": "Pearl S. Buck",
+        "img": "https://images.gr-assets.com/books/1312497600s/1078.jpg"
+    },
+    {
+        "title": "I Know Why the Caged Bird Sings",
+        "author": "Maya Angelou",
+        "img": "https://images.gr-assets.com/books/1327957927s/13214.jpg"
+    },
+    {
+        "title": "The Hiding Place: The Triumphant True Story of Corrie Ten Boom",
+        "author": "Corrie ten Boom",
+        "img": "https://images.gr-assets.com/books/1320418824s/561909.jpg"
+    }
+]
