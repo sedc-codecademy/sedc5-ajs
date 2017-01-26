@@ -13,3 +13,13 @@
 
 
 To include jQuery in the console, you can use [this link](http://stackoverflow.com/questions/7474354/include-jquery-in-the-javascript-console)
+
+To get a list of authors and titles, you can use:
+
+```
+$("tr").each(function () {
+    let names = $(this).find("span[itemprop='name']");
+    console.log($(names[0]).text());
+    console.log($(names[1]).text());
+});
+```
