@@ -10,3 +10,6 @@
     image, //url, bonus
 }...]
 ```
+
+
+To include jQuery in the console, you can use [this link](http://stackoverflow.com/questions/7474354/include-jquery-in-the-javascript-console)
