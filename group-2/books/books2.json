@@ -1,0 +1,602 @@
+[
+    {
+        "title": "Nineteen Eighty-Four",
+        "author": "George Orwell",
+        "awards": 0,
+        "img": "covers_md/go_nineteen.jpg"
+    },
+    {
+        "title": "Earth Abides",
+        "author": "George R. Stewart",
+        "awards": 0,
+        "img": "covers_md/grs_earthabi.jpg"
+    },
+    {
+        "title": "The Martian Chronicles",
+        "author": "Ray Bradbury",
+        "awards": 0,
+        "img": "covers_md/rb_themarti.jpg"
+    },
+    {
+        "title": "The Puppet Masters",
+        "author": "Robert A. Heinlein",
+        "awards": 0,
+        "img": "covers_md/rah_thepuppe.jpg"
+    },
+    {
+        "title": "The Day of the Triffids",
+        "author": "John Wyndham",
+        "awards": 0,
+        "img": "covers_md/jw_thedayof.jpg"
+    },
+    {
+        "title": "Limbo",
+        "author": "Bernard Wolfe",
+        "awards": 0,
+        "img": "covers_md/bw_limbo.jpg"
+    },
+    {
+        "title": "The Demolished Man",
+        "author": "Alfred Bester",
+        "awards": 1,
+        "img": "covers_md/ab_thedemol.jpg"
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "awards": 0,
+        "img": "covers_md/rb_fahrenhe.jpg"
+    },
+    {
+        "title": "Childhood's End",
+        "author": "Arthur C. Clarke",
+        "awards": 0,
+        "img": "covers_md/acc_childhoo.jpg"
+    },
+    {
+        "title": "The Paradox Men",
+        "author": "Charles L. Harness",
+        "awards": 0,
+        "img": "covers_md/clh_theparad.jpg"
+    },
+    {
+        "title": "Bring the Jubilee",
+        "author": "Ward Moore",
+        "awards": 0,
+        "img": "covers_md/wm_bringthe.jpg"
+    },
+    {
+        "title": "The Space Merchants",
+        "author": "Frederik PohlC. M. Kornbluth",
+        "awards": 0,
+        "img": "covers_md/fpcmk_thespace.jpg"
+    },
+    {
+        "title": "Ring Around the Sun",
+        "author": "Clifford D. Simak",
+        "awards": 0,
+        "img": "covers_md/cds_ringarou.jpg"
+    },
+    {
+        "title": "More Than Human",
+        "author": "Theodore Sturgeon",
+        "awards": 0,
+        "img": "covers_md/ts_morethan.jpg"
+    },
+    {
+        "title": "Mission of Gravity",
+        "author": "Hal Clement",
+        "awards": 0,
+        "img": "covers_md/hc_missiono.jpg"
+    },
+    {
+        "title": "A Mirror for Observers",
+        "author": "Edgar Pangborn",
+        "awards": 0,
+        "img": "covers_md/ep_amirrorf.jpg"
+    },
+    {
+        "title": "The End of Eternity",
+        "author": "Isaac Asimov",
+        "awards": 0,
+        "img": "covers_md/ia_theendof.jpg"
+    },
+    {
+        "title": "The Long Tomorrow",
+        "author": "Leigh Brackett",
+        "awards": 0,
+        "img": "covers_md/lb_thelongt.jpg"
+    },
+    {
+        "title": "The Inheritors",
+        "author": "William Golding",
+        "awards": 0,
+        "img": "covers_md/wg_theinher.jpg"
+    },
+    {
+        "title": "The Stars My Destination",
+        "author": "Alfred Bester",
+        "awards": 0,
+        "img": "covers_md/ab_thestars.jpg"
+    },
+    {
+        "title": "The Death of Grass",
+        "author": "John Christopher",
+        "awards": 0,
+        "img": "covers_md/jc_thedeath.jpg"
+    },
+    {
+        "title": "The City and the Stars",
+        "author": "Arthur C. Clarke",
+        "awards": 0,
+        "img": "covers_md/acc_thecitya.jpg"
+    },
+    {
+        "title": "The Door Into Summer",
+        "author": "Robert A. Heinlein",
+        "awards": 0,
+        "img": "covers_md/rah_thedoori.jpg"
+    },
+    {
+        "title": "The Midwich Cuckoos",
+        "author": "John Wyndham",
+        "awards": 0,
+        "img": "covers_md/jw_midwichc.jpg"
+    },
+    {
+        "title": "Non-Stop",
+        "author": "Brian W. Aldiss",
+        "awards": 0,
+        "img": "covers_md/ba_non-stop.jpg"
+    },
+    {
+        "title": "A Case of Conscience",
+        "author": "James Blish",
+        "awards": 1,
+        "img": "covers_md/jb_acaseof.jpg"
+    },
+    {
+        "title": "Have Space Suit - Will Travel",
+        "author": "Robert A. Heinlein",
+        "awards": 1,
+        "img": "covers_md/rah_havespac.jpg"
+    },
+    {
+        "title": "Time Out of Joint",
+        "author": "Philip K. Dick",
+        "awards": 0,
+        "img": "covers_md/pkd_timeouto.jpg"
+    },
+    {
+        "title": "Alas, Babylon",
+        "author": "Pat Frank",
+        "awards": 0,
+        "img": "covers_md/pf_alasbaby.jpg"
+    },
+    {
+        "title": "A Canticle for Leibowitz",
+        "author": "Walter M. Miller, Jr.",
+        "awards": 1,
+        "img": "covers_md/wmmj_acanticl.jpg"
+    },
+    {
+        "title": "The Sirens of Titan",
+        "author": "Kurt Vonnegut, Jr.",
+        "awards": 1,
+        "img": "covers_md/kv_thesiren.jpg"
+    },
+    {
+        "title": "Rogue Moon",
+        "author": "Algis Budrys",
+        "awards": 1,
+        "img": "covers_md/ab_roguemoo.jpg"
+    },
+    {
+        "title": "Venus Plus X",
+        "author": "Theodore Sturgeon",
+        "awards": 1,
+        "img": "covers_md/ts_venusplu.jpg"
+    },
+    {
+        "title": "Hothouse / The Long Afternoon of Earth",
+        "author": "Brian W. Aldiss",
+        "awards": 0,
+        "img": "covers_md/ba_hothouse.jpg"
+    },
+    {
+        "title": "The Drowned World",
+        "author": "J. G. Ballard",
+        "awards": 0,
+        "img": "covers_md/jgb_thedrown.jpg"
+    },
+    {
+        "title": "A Clockwork Orange",
+        "author": "Anthony Burgess",
+        "awards": 0,
+        "img": "covers_md/ab_aclockwo.jpg"
+    },
+    {
+        "title": "The Man in the High Castle",
+        "author": "Philip K. Dick",
+        "awards": 1,
+        "img": "covers_md/pkd_themanin.jpg"
+    },
+    {
+        "title": "Journey Beyond Tomorrow",
+        "author": "Robert Sheckley",
+        "awards": 0,
+        "img": "covers_md/rs_journeyb.jpg"
+    },
+    {
+        "title": "Way Station",
+        "author": "Clifford D. Simak",
+        "awards": 1,
+        "img": "covers_md/cds_waystati.jpg"
+    },
+    {
+        "title": "Cat's Cradle",
+        "author": "Kurt Vonnegut, Jr.",
+        "awards": 1,
+        "img": "covers_md/kv_catscrad.jpg"
+    },
+    {
+        "title": "Greybeard",
+        "author": "Brian W. Aldiss",
+        "awards": 0,
+        "img": "covers_md/ba_greybear.jpg"
+    },
+    {
+        "title": "Nova Express",
+        "author": "William S. Burroughs",
+        "awards": 1,
+        "img": "covers_md/wsb_novaexpr.jpg"
+    },
+    {
+        "title": "Martian Time-Slip",
+        "author": "Philip K. Dick",
+        "awards": 0,
+        "img": "covers_md/pkd_martiant.jpg"
+    },
+    {
+        "title": "The Three Stigmata of Palmer Eldritch",
+        "author": "Philip K. Dick",
+        "awards": 1,
+        "img": "covers_md/pkd_thethree.jpg"
+    },
+    {
+        "title": "The Wanderer",
+        "author": "Fritz Leiber",
+        "awards": 1,
+        "img": "covers_md/fl_thewande.jpg"
+    },
+    {
+        "title": "Norstrilia",
+        "author": "Cordwainer Smith",
+        "awards": 0,
+        "img": "covers_md/cs_norstril.jpg"
+    },
+    {
+        "title": "Dr. Bloodmoney",
+        "author": "Philip K. Dick",
+        "awards": 1,
+        "img": "covers_md/pkd_drbloodm.jpg"
+    },
+    {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "awards": 2,
+        "img": "covers_md/fh_dune.jpg"
+    },
+    {
+        "title": "The Crystal World",
+        "author": "J. G. Ballard",
+        "awards": 0,
+        "img": "covers_md/jgb_thecryst.jpg"
+    },
+    {
+        "title": "Make Room! Make Room!",
+        "author": "Harry Harrison",
+        "awards": 0,
+        "img": "covers_md/hh_makeroom.jpg"
+    },
+    {
+        "title": "Flowers for Algernon",
+        "author": "Daniel Keyes",
+        "awards": 2,
+        "img": "covers_md/dk_flowersf.jpg"
+    },
+    {
+        "title": "The Dream Master",
+        "author": "Roger Zelazny",
+        "awards": 0,
+        "img": "covers_md/rz_thedream.jpg"
+    },
+    {
+        "title": "Stand on Zanzibar",
+        "author": "John Brunner",
+        "awards": 3,
+        "img": "covers_md/jb_standonz.jpg"
+    },
+    {
+        "title": "Nova",
+        "author": "Samuel R. Delany",
+        "awards": 1,
+        "img": "covers_md/srd_nova.jpg"
+    },
+    {
+        "title": "Do Androids Dream of Electric Sheep?",
+        "author": "Philip K. Dick",
+        "awards": 1,
+        "img": "covers_md/pkd_doandroi.jpg"
+    },
+    {
+        "title": "Camp Concentration",
+        "author": "Thomas M. Disch",
+        "awards": 0,
+        "img": "covers_md/tmd_campconc.jpg"
+    },
+    {
+        "title": "The Final Programme",
+        "author": "Michael Moorcock",
+        "awards": 0,
+        "img": "covers_md/mm_thefinal.jpg"
+    },
+    {
+        "title": "Pavane",
+        "author": "Keith Roberts",
+        "awards": 0,
+        "img": "covers_md/kr_pavane.jpg"
+    },
+    {
+        "title": "Heroes and Villains",
+        "author": "Angela Carter",
+        "awards": 0,
+        "img": "covers_md/ac_heroesan.jpg"
+    },
+    {
+        "title": "The Left Hand of Darkness",
+        "author": "Ursula K. Le Guin",
+        "awards": 2,
+        "img": "covers_md/uklg_thelefth.jpg"
+    },
+    {
+        "title": "The Palace of Eternity",
+        "author": "Bob Shaw",
+        "awards": 0,
+        "img": "covers_md/bs_thepalac.jpg"
+    },
+    {
+        "title": "Bug Jack Barron",
+        "author": "Norman Spinrad",
+        "awards": 2,
+        "img": "covers_md/ns_bugjackb.jpg"
+    },
+    {
+        "title": "Tau Zero",
+        "author": "Poul Anderson",
+        "awards": 1,
+        "img": "covers_md/pa_tauzero.jpg"
+    },
+    {
+        "title": "Downward to the Earth",
+        "author": "Robert Silverberg",
+        "awards": 1,
+        "img": "covers_md/rs_downward.jpg"
+    },
+    {
+        "title": "The Year of the Quiet Sun",
+        "author": "Wilson Tucker",
+        "awards": 4,
+        "img": "covers_md/wt_theyearo.jpg"
+    },
+    {
+        "title": "334",
+        "author": "Thomas M. Disch",
+        "awards": 1,
+        "img": "covers_md/tmd_334.jpg"
+    },
+    {
+        "title": "The Fifth Head of Cerberus",
+        "author": "Gene Wolfe",
+        "awards": 0,
+        "img": "covers_md/gw_thefifth.jpg"
+    },
+    {
+        "title": "The Dancers at the End of Time",
+        "author": "Michael Moorcock",
+        "awards": 0,
+        "img": "covers_md/mm_thedance.jpg"
+    },
+    {
+        "title": "Crash",
+        "author": "J. G. Ballard",
+        "awards": 0,
+        "img": "covers_md/jgb_crash.jpg"
+    },
+    {
+        "title": "Looking Backward, from the Year 2000",
+        "author": "Mack Reynolds",
+        "awards": 0,
+        "img": "covers_md/mr_lookingb.jpg"
+    },
+    {
+        "title": "The Embedding",
+        "author": "Ian Watson",
+        "awards": 2,
+        "img": "covers_md/iw_theembed.jpg"
+    },
+    {
+        "title": "Walk to the End of the World",
+        "author": "Suzy McKee Charnas",
+        "awards": 0,
+        "img": "covers_md/smkc_walktoth.jpg"
+    },
+    {
+        "title": "The Centauri Device",
+        "author": "M. John Harrison",
+        "awards": 0,
+        "img": "covers_md/mjh_thecenta.jpg"
+    },
+    {
+        "title": "The Dispossessed",
+        "author": "Ursula K. Le Guin",
+        "awards": 4,
+        "img": "covers_md/uklg_thedispo.jpg"
+    },
+    {
+        "title": "The Inverted World",
+        "author": "Christopher Priest",
+        "awards": 2,
+        "img": "covers_md/cp_inverted.jpg"
+    },
+    {
+        "title": "High-Rise",
+        "author": "J. G. Ballard",
+        "awards": 0,
+        "img": "covers_md/jgb_highrise.jpg"
+    },
+    {
+        "title": "Galaxies",
+        "author": "Barry N. Malzberg",
+        "awards": 0,
+        "img": "covers_md/bnm_galaxies.jpg"
+    },
+    {
+        "title": "The Female Man",
+        "author": "Joanna Russ",
+        "awards": 1,
+        "img": "covers_md/jr_thefemal.jpg"
+    },
+    {
+        "title": "Orbitsville",
+        "author": "Bob Shaw",
+        "awards": 2,
+        "img": "covers_md/bs_orbitsvi.jpg"
+    },
+    {
+        "title": "The Alteration",
+        "author": "Kingsley Amis",
+        "awards": 1,
+        "img": "covers_md/ka_thealter.jpg"
+    },
+    {
+        "title": "Woman on the Edge of Time",
+        "author": "Marge Piercy",
+        "awards": 0,
+        "img": "covers_md/mp_womanont.jpg"
+    },
+    {
+        "title": "Man Plus",
+        "author": "Frederik Pohl",
+        "awards": 4,
+        "img": "covers_md/fp_manplus.jpg"
+    },
+    {
+        "title": "Michaelmas",
+        "author": "Algis Budrys",
+        "awards": 1,
+        "img": "covers_md/ajb_michaelm.jpg"
+    },
+    {
+        "title": "The Ophiuchi Hotline",
+        "author": "John Varley",
+        "awards": 1,
+        "img": "covers_md/jv_theophiu.jpg"
+    },
+    {
+        "title": "Miracle Visitors",
+        "author": "Ian Watson",
+        "awards": 0,
+        "img": "covers_md/iw_miraclev.jpg"
+    },
+    {
+        "title": "Engine Summer",
+        "author": "John Crowley",
+        "awards": 2,
+        "img": "covers_md/jc_enginesu.jpg"
+    },
+    {
+        "title": "On Wings of Song",
+        "author": "Thomas M. Disch",
+        "awards": 5,
+        "img": "covers_md/tmd_onwingso.jpg"
+    },
+    {
+        "title": "The Walking Shadow",
+        "author": "Brian Stableford",
+        "awards": 0,
+        "img": "covers_md/bs_thewalki.jpg"
+    },
+    {
+        "title": "Juniper Time",
+        "author": "Kate Wilhelm",
+        "awards": 1,
+        "img": "covers_md/kw_junipert.jpg"
+    },
+    {
+        "title": "Timescape",
+        "author": "Gregory Benford",
+        "awards": 4,
+        "img": "covers_md/gb_timescap.jpg"
+    },
+    {
+        "title": "The Dreaming Dragons",
+        "author": "Damien Broderick",
+        "awards": 1,
+        "img": "covers_md/db_thedream.jpg"
+    },
+    {
+        "title": "Wild Seed",
+        "author": "Octavia E. Butler",
+        "awards": 0,
+        "img": "covers_md/oeb_wildseed.jpg"
+    },
+    {
+        "title": "Riddley Walker",
+        "author": "Russell Hoban",
+        "awards": 2,
+        "img": "covers_md/rh_riddleyw.jpg"
+    },
+    {
+        "title": "The Complete Roderick",
+        "author": "John Sladek",
+        "awards": 0,
+        "img": "covers_md/js_thecompl.jpg"
+    },
+    {
+        "title": "The Book of the New Sun, Volume 1",
+        "author": "Gene Wolfe",
+        "awards": 0,
+        "img": "covers_md/gw_thebooko.jpg"
+    },
+    {
+        "title": "The Unreasoning Mask",
+        "author": "Philip José Farmer",
+        "awards": 0,
+        "img": "covers_md/pjf_unreason.jpg"
+    },
+    {
+        "title": "Oath of Fealty",
+        "author": "Larry NivenJerry Pournelle",
+        "awards": 1,
+        "img": "covers_md/lnjp_oathoffe.jpg"
+    },
+    {
+        "title": "No Enemy But Time",
+        "author": "Michael Bishop",
+        "awards": 3,
+        "img": "covers_md/mb_noenemyb.jpg"
+    },
+    {
+        "title": "The Birth of the People's Republic of Antarctica",
+        "author": "John Calvin Batchelor",
+        "awards": 1,
+        "img": "covers_md/jcb_thebirth.jpg"
+    },
+    {
+        "title": "Neuromancer",
+        "author": "William Gibson",
+        "awards": 7,
+        "img": "covers_md/wg_neuroman.jpg"
+    }
+]
