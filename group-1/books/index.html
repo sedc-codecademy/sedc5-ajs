@@ -1,22 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <title>Document</title>
 </head>
+
 <body>
-    <table>
+    <input type="text" id="searchTerm"><button id="search">Search</button><button id="reset">Reset</button>
+    <table border="1">
         <thead>
             <tr>
-                <th>Author</th>
-                <th>Title</th>
+                <th>
+                    Author
+                    <button>Asc</button>
+                    <button>Desc</button>
+                </th>
+                <th>
+                    Title
+                    <button>Asc</button>
+                    <button>Desc</button>
+                </th>
                 <th>Awards</th>
                 <th>Image</th>
             </tr>
         </thead>
-        <tbody>
-            
+        <tbody id="book-list">
+
         </tbody>
     </table>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="script.js"></script>
 </body>
+
 </html>
