@@ -25,3 +25,19 @@ console.log(wolf.eat(bunny)); //expected: Wolf is eating bunny
 
 //Exercise left to the reader :)
 console.log(wolf.eat(wolf)); //expected: ERROR: Wolf cannot eat itself
+
+let capucin;
+let gorrila;
+let weko;
+
+let tree = {};
+
+capucin.climb(tree);
+gorrila.climb(tree);
+capucin.makeSound(); // Expected: eeeeeeeeeeeeeeeeeeeeee
+gorilla.makeSound(); // Expected: U-U-A-A
+weko.climb(tree); // should throw error
+weko.makeSound(); //Expected: blah-blah-blah
+capucin.eat(salad);
+gorilla.eat(salad);
+weko.eat(salad);
