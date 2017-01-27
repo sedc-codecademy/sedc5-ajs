@@ -1,51 +1,84 @@
-let animals = [];
+let animals = [
+    new Animal("Whitefang", "wolf", true)
+];
 
-let bunny = new Animal("Bunny", "rabbit", false);
-console.log(JSON.stringify(bunny));
-let wolf = new Animal("WhiteFang", "wolf", true);
-console.log(JSON.stringify(wolf));
 
-let salad = {
-    name: "salad",
-    type: "grass"
+
+$(() => {
+    $("#add-animal").on('click', () => {
+        let value = $("#type").val();
+        let animal = options[value].constructor();
+        animals.push(animal);
+        displayAnimals();
+    })
+
+    $("#type").on("change", () => {
+        let value = $("#type").val();
+        $("#animal-edit").fadeOut();
+        $("#monkey-edit").fadeOut();
+        $(`#${options[value].editorId}`).fadeIn();
+    })
+
+    $("#monkey-edit").fadeOut();
+    displayAnimals();
+})
+
+displayAnimals = () => {
+    let list = $("#animal-list");
+    list.html("");
+    animals.forEach(a => {
+        list.append(`<tr>
+                    <td>${a.name}</td>
+                    <td>${a.kind}</td>
+                    <td>${a.isCarnivore ? "Carnivore" : "Herbivore"}</td>
+                    <td><button>Speak</button></td>
+                </tr>`);
+        let button = $(list.find("button").last());
+        button.on('click', () => {
+            $("#result").text(a.makeSound());
+        });
+    });
 }
 
-let venison = {
-    name: "venison",
-    type: "meat"
+let createAnimal = () => {
+    let name = $("#name").val();
+    let kind = $("#kind").val();
+    let isCarnivore = $("#isCarnivore").is(":checked");
+
+    let makeSound = () => `Making ${kind} sounds`;
+
+    let animal = new Animal(name, kind, isCarnivore, makeSound);
+    return animal;
 }
 
+let createMonkey = () => {
+    let name = $("#name").val();
+    let mkind = $("#mkind").val();
+    let canClimb = $("#canClimb").is(":checked");
+    let call = $("#monkeyCall").val();
 
-console.log(bunny.eat(salad)); //expected: Bunny is eating salad
-try {
-    console.log(bunny.eat(venison)); 
-} catch (error) {
-    console.log(`ERROR: ${error.message}`); //expected: ERROR: Bunny cannot eat venison
+    let monkey = new Monkey(name, mkind, canClimb, call);
+    return monkey;
 }
 
-try {
-    wolf.eat(salad);
-} catch (error) {
-        console.log(`ERROR: ${error.message}`); //expected: ERROR: Wolf cannot eat salad
-}
-console.log(wolf.eat(venison)); //expected: Wolf is eating venison
-console.log(wolf.eat(bunny)); //expected: Wolf is eating bunny
+let options = {
+    "animal": {
+        constructor: createAnimal,
+        editorId: "animal-edit"
+    },
+    "monkey": {
+        constructor: createMonkey,
+        editorId: "monkey-edit"
+    },
+    "weeee" :{
+        editorId: "weeee-edit",
+        constructor: () => {
+            return {
+                name: "I make weeeee",
+                makeSound: () => `weeeeeeeeeeeee`
+            }
+        }
+    }
+};
 
-//Exercise left to the reader :)
-console.log(wolf.eat(wolf)); //expected: ERROR: Wolf cannot eat itself
 
-let capucin = new Monkey("Nescaffe","capucin", true, "eeeeeeeeeeeeeeeeeeeeee");
-let gorilla = new Monkey("Kalla", "gorilla", true, "U-U-A-A");
-let weko = new Monkey("Wekoslav", "human", false, "blah-blah-blah");
-
-//let tree = {};
-
-// capucin.climb(tree);
-// gorilla.climb(tree);
-// capucin.makeSound(); // Expected: eeeeeeeeeeeeeeeeeeeeee
-// gorilla.makeSound(); // Expected: U-U-A-A
-// weko.climb(tree); // should throw error
-// weko.makeSound(); //Expected: blah-blah-blah
-console.log(capucin.eat(salad)) ;
-console.log(gorilla.eat(salad));
-console.log(weko.eat(salad));

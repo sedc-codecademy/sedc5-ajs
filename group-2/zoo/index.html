@@ -1,19 +1,56 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <title>Zoo Example</title>
 </head>
+
 <body>
-    <div id="list">
-
-    </div>
     <div id="entry">
+        Choose type:
+        <select id="type">
+            <option value="animal">Animal</option>
+            <option value="monkey">Monkey</option>
+            <option value="weeee">Weeee</option>
+        </select><br/>
+        Name: <input type="text" id="name"> <br/> 
+        <div id="animal-edit">
+            Kind: <input type="text" id="kind"> <br/> 
+            Is Carnivore: <input type="checkbox" id="isCarnivore"> <br/>
+        </div>
+        <div id="monkey-edit">
+            Monkey Kind: <input type="text" id="mkind"> <br/> 
+            Can Climb:  <input type="checkbox" id="canClimb"> <br/>
+            Call: <input type="text" id="monkeyCall"> <br/> 
+        </div>
+        <div id="weeee-edit">
 
+        </div>
+        <button id="add-animal">Add</button>
     </div>
-    
+    <div id="list">
+        <div id="result"></div>
+
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Kind</th>
+                    <th>Food</th>
+                    <th>Speak</th>
+                </tr>
+            </thead>
+            <tbody id="animal-list">
+            </tbody>
+        </table>
+    </div>
+
+
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.1.1.min.js"></script>
     <script src="animal.js"></script>
     <script src="monkey.js"></script>
     <script src="core.js"></script>
 </body>
+
 </html>

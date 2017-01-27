@@ -1,9 +1,12 @@
-function Animal(name, kind, isCarnivore) {
+function Animal(name, kind, isCarnivore, makeSound) {
     this.name = name;
     this.kind = kind;
     this.isCarnivore = isCarnivore;
 
     this.type = "meat";
+
+    if (makeSound)
+        this.makeSound = makeSound;
 }
 
 Animal.prototype.getFoodType = function () {
@@ -33,7 +36,8 @@ Animal.prototype.eat = function (food) {
 // }
 
 Animal.prototype.makeSound = function () {
-    throw Error("don't know how to make sounds");
+    return `Making default sound`
+    //throw Error("don't know how to make sounds");
 }
 
 let returnThree = (function () {
