@@ -1,13 +1,25 @@
-function Animal (){
-    //name
+function Animal(name, kind, isCarnivore) {
+    this.name = name;
+    this.kind = kind;
+    this.isCarnivore = isCarnivore;
 
-    //kind
+    this.type = "meat";
+}
 
-    //isCarnivore
+Animal.prototype.eat = function (food) {
+    if (this.isCarnivore) {
+        if (food.type !== "meat") {
+            throw Error(`${this.name} cannot eat ${food.name}`)
+        }
+        return `${this.name} is eating ${food.name}`;
+    }
 
-    //isHerbivore
+    if (food.type !== "grass") {
+        throw Error(`${this.name} cannot eat ${food.name}`)
+    }
+    return `${this.name} is eating ${food.name}`;
+}
 
-    //makeSound();
-
-    //eat();
+Animal.prototype.makeSound = function(){
+    throw Error("don't know how to make sounds");
 }
