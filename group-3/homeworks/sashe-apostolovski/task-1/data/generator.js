@@ -16,7 +16,7 @@ fs.readdir(".", (err, files)=>{
 for (var index = 0; index < 20; index++) {
     let name = Math.random().toString(36).substr(2, 8) + ".json";
     let data = Array.from({length: 20}, ()=>getRandomInt(50)+1);
-    let operation = operations[getRandomInt(4)];
+    let operation = operations[getRandomInt(5)];
 
     fs.writeFile(name, JSON.stringify({
         data: data,
