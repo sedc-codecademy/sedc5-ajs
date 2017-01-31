@@ -1,7 +1,6 @@
 function selectMany(array, cb){
-  return array.map((element) => {
-    return typeof cb === 'function' ? cb(element) : element;
-  }).reduce((a, b) => a.concat(b));
+  cb = typeof cb === 'function' ? cb : x => x;
+  return array.reduce((a, b) => a.concat(cb(b)), []);
 }
 
 let src = [
@@ -13,6 +12,6 @@ let src = [
 src1 = [1, 123, 567];
 
 console.log(selectMany(src));
-console.log(selectMany(src1, (el) => {
+console.log(selectMany(src1, el => {
   return String(el).split('').map(el => Number(el));
 }));
