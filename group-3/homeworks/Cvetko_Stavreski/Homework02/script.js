@@ -24,7 +24,7 @@ Array.prototype.selectMany = function(fn) {
                 result.push(Number(string[s]))
             }
         } else {
-            result.push(Number(string))
+            result.push(string)
         }
 
     }
@@ -36,3 +36,4 @@ Array.prototype.selectMany = function(fn) {
 console.log(src.selectMany(function(x){ return x;}));
 console.log(src1.selectMany(function(x){ return x + 2;}));
 console.log(src1.selectMany(function(x){ return x + "";}));
+console.log(src1.selectMany(function(x){ return x > 10;}));
