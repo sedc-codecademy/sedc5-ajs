@@ -1,0 +1,709 @@
+[
+    {
+        "title": "The Handmaid's Tale",
+        "author": "Margaret Atwood",
+        "awards": 5,
+        "image": "https://www.worldswithoutend.com/covers/ma_thehandm.jpg",
+        "year": 1985
+    },
+    {
+        "title": "Ender's Game",
+        "author": "Orson Scott Card",
+        "awards": 3,
+        "image": "https://www.worldswithoutend.com/covers/osc_endersga.jpg",
+        "year": 1985
+    },
+    {
+        "title": "Radio Free Albemuth",
+        "author": "Philip K. Dick",
+        "awards": 1,
+        "image": "https://www.worldswithoutend.com/covers/pkd_radiofre.jpg",
+        "year": 1985
+    },
+    {
+        "title": "Always Coming Home",
+        "author": "Ursula K. Le Guin",
+        "awards": 1,
+        "image": "https://www.worldswithoutend.com/covers/uklg_alwaysco.jpg",
+        "year": 1985
+    },
+    {
+        "title": "This is the Way the World Ends",
+        "author": "James Morrow",
+        "awards": 2,
+        "image": "https://www.worldswithoutend.com/covers/jm_thisisth.jpg",
+        "year": 1986
+    },
+    {
+        "title": "Galapagos",
+        "author": "Kurt Vonnegut, Jr.",
+        "awards": 1,
+        "image": "https://www.worldswithoutend.com/covers/kv_galapago.jpg",
+        "year": 1985
+    },
+    {
+        "title": "The Falling Woman",
+        "author": "Pat Murphy",
+        "awards": 2,
+        "image": "https://www.worldswithoutend.com/covers/pm_thefalli.jpg",
+        "year": 1986
+    },
+    {
+        "title": "The Shore of Women",
+        "author": "Pamela Sargent",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/ps_theshore.jpg",
+        "year": 1986
+    },
+    {
+        "title": "A Door into Ocean",
+        "author": "Joan Slonczewski",
+        "awards": 2,
+        "image": "https://www.worldswithoutend.com/covers/js_adoorint.jpg",
+        "year": 1986
+    },
+    {
+        "title": "Soldiers of Paradise",
+        "author": "Paul Park",
+        "awards": 1,
+        "image": "https://www.worldswithoutend.com/covers/pp_soldiers.jpg",
+        "year": 1987
+    },
+    {
+        "title": "Life During Wartime",
+        "author": "Lucius Shepard",
+        "awards": 3,
+        "image": "https://www.worldswithoutend.com/covers/ls_lifeduri.jpg",
+        "year": 1987
+    },
+    {
+        "title": "Drowning Towers / The Sea and Summer",
+        "author": "George Turner",
+        "awards": 3,
+        "image": "https://www.worldswithoutend.com/covers/gt_theseaan.jpg",
+        "year": 1987
+    },
+    {
+        "title": "Cyteen",
+        "author": "C. J. Cherryh",
+        "awards": 3,
+        "image": "https://www.worldswithoutend.com/covers/cjc_cyteen.jpg",
+        "year": 1988
+    },
+    {
+        "title": "Neverness",
+        "author": "David Zindell",
+        "awards": 1,
+        "image": "https://www.worldswithoutend.com/covers/dz_nevernes.jpg",
+        "year": 1988
+    },
+    {
+        "title": "The Steerswoman",
+        "author": "Rosemary Kirstein",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/rk_thesteer.jpg",
+        "year": 1989
+    },
+    {
+        "title": "Grass",
+        "author": "Sheri S. Tepper",
+        "awards": 2,
+        "image": "https://www.worldswithoutend.com/covers/sst_grass.jpg",
+        "year": 1989
+    },
+    {
+        "title": "Use of Weapons",
+        "author": "Iain M. Banks",
+        "awards": 2,
+        "image": "https://www.worldswithoutend.com/covers/imb_useofwea.jpg",
+        "year": 1990
+    },
+    {
+        "title": "Queen of Angels",
+        "author": "Greg Bear",
+        "awards": 3,
+        "image": "https://www.worldswithoutend.com/covers/gb_queenofa.jpg",
+        "year": 1990
+    },
+    {
+        "title": "Barrayar",
+        "author": "Lois McMaster Bujold",
+        "awards": 3,
+        "image": "https://www.worldswithoutend.com/covers/lmmb_barrayar.jpg",
+        "year": 1991
+    },
+    {
+        "title": "Synners",
+        "author": "Pat Cadigan",
+        "awards": 2,
+        "image": "https://www.worldswithoutend.com/covers/pc_synners.jpg",
+        "year": 1991
+    },
+    {
+        "title": "Sarah Canary",
+        "author": "Karen Joy Fowler",
+        "awards": 2,
+        "image": "https://www.worldswithoutend.com/covers/kjf_sarahcan.jpg",
+        "year": 1991
+    },
+    {
+        "title": "White Queen",
+        "author": "Gwyneth Jones",
+        "awards": 2,
+        "image": "https://www.worldswithoutend.com/covers/gj_whiteque.jpg",
+        "year": 1993
+    },
+    {
+        "title": "Eternal Light",
+        "author": "Paul J. McAuley",
+        "awards": 2,
+        "image": "https://www.worldswithoutend.com/covers/pjma_eternall.jpg",
+        "year": 1992
+    },
+    {
+        "title": "Stations of the Tide",
+        "author": "Michael Swanwick",
+        "awards": 4,
+        "image": "https://www.worldswithoutend.com/covers/ms_stations.jpg",
+        "year": 1991
+    },
+    {
+        "title": "Timelike Infinity",
+        "author": "Stephen Baxter",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/sb_timelike.jpg",
+        "year": 1992
+    },
+    {
+        "title": "Dead Girls",
+        "author": "Richard Calder",
+        "awards": 1,
+        "image": "https://www.worldswithoutend.com/covers/rc_deadgirl.jpg",
+        "year": 1992
+    },
+    {
+        "title": "Jumper",
+        "author": "Steven Gould",
+        "awards": 1,
+        "image": "https://www.worldswithoutend.com/covers/sg_jumper.jpg",
+        "year": 1992
+    },
+    {
+        "title": "China Mountain Zhang",
+        "author": "Maureen F. McHugh",
+        "awards": 4,
+        "image": "https://www.worldswithoutend.com/covers/mfm_chinamou.jpg",
+        "year": 1992
+    },
+    {
+        "title": "Red Mars",
+        "author": "Kim Stanley Robinson",
+        "awards": 6,
+        "image": "https://www.worldswithoutend.com/covers/ksr_redmars.jpg",
+        "year": 1992
+    },
+    {
+        "title": "A Fire Upon the Deep",
+        "author": "Vernor Vinge",
+        "awards": 4,
+        "image": "https://www.worldswithoutend.com/covers/vv_afireupo.jpg",
+        "year": 1992
+    },
+    {
+        "title": "Aristoi",
+        "author": "Walter Jon Williams",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/wjw_aristoi.jpg",
+        "year": 1992
+    },
+    {
+        "title": "Doomsday Book",
+        "author": "Connie Willis",
+        "awards": 6,
+        "image": "https://www.worldswithoutend.com/covers/cw_thedooms.jpg",
+        "year": 1992
+    },
+    {
+        "title": "Parable of the Sower",
+        "author": "Octavia E. Butler",
+        "awards": 2,
+        "image": "https://www.worldswithoutend.com/covers/oeb_parasowe.jpg",
+        "year": 1993
+    },
+    {
+        "title": "Ammonite",
+        "author": "Nicola Griffith",
+        "awards": 4,
+        "image": "https://www.worldswithoutend.com/covers/ng_ammonite.jpg",
+        "year": 1993
+    },
+    {
+        "title": "Chimera",
+        "author": "Mary Rosenblum",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/mr_chimera.jpg",
+        "year": 1993
+    },
+    {
+        "title": "Nightside the Long Sun",
+        "author": "Gene Wolfe",
+        "awards": 2,
+        "image": "https://www.worldswithoutend.com/covers/gw_nightsid.jpg",
+        "year": 1993
+    },
+    {
+        "title": "Brittle Innings",
+        "author": "Michael Bishop",
+        "awards": 5,
+        "image": "https://www.worldswithoutend.com/covers/mb_brittlei.jpg",
+        "year": 1994
+    },
+    {
+        "title": "Permutation City",
+        "author": "Greg Egan",
+        "awards": 3,
+        "image": "https://www.worldswithoutend.com/covers/ge_permutat.jpg",
+        "year": 1994
+    },
+    {
+        "title": "Blood",
+        "author": "Michael Moorcock",
+        "awards": 1,
+        "image": "https://www.worldswithoutend.com/covers/mm_blood.jpg",
+        "year": 1995
+    },
+    {
+        "title": "Mother of Storms",
+        "author": "John Barnes",
+        "awards": 4,
+        "image": "https://www.worldswithoutend.com/covers/jb_motherof.jpg",
+        "year": 1994
+    },
+    {
+        "title": "Sailing Bright Eternity",
+        "author": "Gregory Benford",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/gb_sailingb.jpg",
+        "year": 1995
+    },
+    {
+        "title": "Galatea 2.2",
+        "author": "Richard Powers",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/rp_galataea2.jpg",
+        "year": 1995
+    },
+    {
+        "title": "The Diamond Age",
+        "author": "Neal Stephenson",
+        "awards": 6,
+        "image": "https://www.worldswithoutend.com/covers/ns_thediamo.jpg",
+        "year": 1995
+    },
+    {
+        "title": "The Transmigration of Souls",
+        "author": "William Barton",
+        "awards": 1,
+        "image": "https://www.worldswithoutend.com/covers/wb_thetrans.jpg",
+        "year": 1996
+    },
+    {
+        "title": "The Fortunate Fall",
+        "author": "Raphael Carter",
+        "awards": 1,
+        "image": "https://www.worldswithoutend.com/covers/rc_thefortu.jpg",
+        "year": 1996
+    },
+    {
+        "title": "The Sparrow",
+        "author": "Mary Doria Russell",
+        "awards": 4,
+        "image": "https://www.worldswithoutend.com/covers/mdr_thesparr.jpg",
+        "year": 1996
+    },
+    {
+        "title": "Holy Fire",
+        "author": "Bruce Sterling",
+        "awards": 3,
+        "image": "https://www.worldswithoutend.com/covers/bs_holyfire.jpg",
+        "year": 1996
+    },
+    {
+        "title": "Night Lamp",
+        "author": "Jack Vance",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/jv_nightlam.jpg",
+        "year": 1996
+    },
+    {
+        "title": "In the Garden of Iden",
+        "author": "Kage Baker",
+        "awards": 1,
+        "image": "https://www.worldswithoutend.com/covers/kb_inthegar.jpg",
+        "year": 1997
+    },
+    {
+        "title": "Forever Peace",
+        "author": "Joe Haldeman",
+        "awards": 4,
+        "image": "https://www.worldswithoutend.com/covers/jh_foreverp.jpg",
+        "year": 1997
+    },
+    {
+        "title": "Glimmering",
+        "author": "Elizabeth Hand",
+        "awards": 1,
+        "image": "https://www.worldswithoutend.com/covers/eh_glimmeri.jpg",
+        "year": 1997
+    },
+    {
+        "title": "As She Climbed Across the Table",
+        "author": "Jonathan Lethem",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/jl_asshecli.jpg",
+        "year": 1997
+    },
+    {
+        "title": "The Cassini Division",
+        "author": "Ken MacLeod",
+        "awards": 4,
+        "image": "https://www.worldswithoutend.com/covers/kml_thecassi.jpg",
+        "year": 1998
+    },
+    {
+        "title": "Bloom",
+        "author": "Wil McCarthy",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/wmc_bloom.jpg",
+        "year": 1998
+    },
+    {
+        "title": "Vast",
+        "author": "Linda Nagata",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/ln_vast.jpg",
+        "year": 1998
+    },
+    {
+        "title": "The Golden Globe",
+        "author": "John Varley",
+        "awards": 2,
+        "image": "https://www.worldswithoutend.com/covers/jv_thegolde.jpg",
+        "year": 1998
+    },
+    {
+        "title": "Headlong",
+        "author": "Simon Ings",
+        "awards": 1,
+        "image": "https://www.worldswithoutend.com/covers/si_headlong.jpg",
+        "year": 1999
+    },
+    {
+        "title": "Cave of Stars",
+        "author": "George Zebrowski",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/gz_caveofst.jpg",
+        "year": 1999
+    },
+    {
+        "title": "Genesis",
+        "author": "Poul Anderson",
+        "awards": 1,
+        "image": "https://www.worldswithoutend.com/covers/pa_genesis.jpg",
+        "year": 2000
+    },
+    {
+        "title": "Super-Cannes",
+        "author": "J. G. Ballard",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/jgb_super-ca.jpg",
+        "year": 2000
+    },
+    {
+        "title": "Under the Skin",
+        "author": "Michel Faber",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/mf_underthe.jpg",
+        "year": 2000
+    },
+    {
+        "title": "Perdido Street Station",
+        "author": "China Miéville",
+        "awards": 8,
+        "image": "https://www.worldswithoutend.com/covers/cm_perdidos.jpg",
+        "year": 2000
+    },
+    {
+        "title": "Distance Haze",
+        "author": "Jamil Nasir",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/jn_distance.jpg",
+        "year": 2000
+    },
+    {
+        "title": "Revelation Space",
+        "author": "Alastair Reynolds",
+        "awards": 3,
+        "image": "https://www.worldswithoutend.com/covers/ar_revelati.jpg",
+        "year": 2000
+    },
+    {
+        "title": "Salt",
+        "author": "Adam Roberts",
+        "awards": 1,
+        "image": "https://www.worldswithoutend.com/covers/ar_salt.jpg",
+        "year": 2000
+    },
+    {
+        "title": "Ventus",
+        "author": "Karl Schroeder",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/ks_ventus.jpg",
+        "year": 2000
+    },
+    {
+        "title": "The Cassandra Complex",
+        "author": "Brian Stableford",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/bs_thecassa.jpg",
+        "year": 2001
+    },
+    {
+        "title": "Light",
+        "author": "M. John Harrison",
+        "awards": 3,
+        "image": "https://www.worldswithoutend.com/covers/mjh_light.jpg",
+        "year": 2002
+    },
+    {
+        "title": "Altered Carbon",
+        "author": "Richard K. Morgan",
+        "awards": 2,
+        "image": "https://www.worldswithoutend.com/covers/rkm_alteredc.jpg",
+        "year": 2002
+    },
+    {
+        "title": "The Separation",
+        "author": "Christopher Priest",
+        "awards": 3,
+        "image": "https://www.worldswithoutend.com/covers/cp_thesepar.jpg",
+        "year": 2002
+    },
+    {
+        "title": "The Golden Age",
+        "author": "John C. Wright",
+        "awards": 2,
+        "image": "https://www.worldswithoutend.com/covers/jcw_thegolde.jpg",
+        "year": 2002
+    },
+    {
+        "title": "The Time Traveler's Wife",
+        "author": "Audrey Niffenegger",
+        "awards": 3,
+        "image": "https://www.worldswithoutend.com/covers/an_thetimet.jpg",
+        "year": 2003
+    },
+    {
+        "title": "Natural History",
+        "author": "Justina Robson",
+        "awards": 3,
+        "image": "https://www.worldswithoutend.com/covers/jr_naturalh.jpg",
+        "year": 2003
+    },
+    {
+        "title": "The Labyrinth Key",
+        "author": "Howard V. Hendrix",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/hvh_thelabyr.jpg",
+        "year": 2004
+    },
+    {
+        "title": "River of Gods",
+        "author": "Ian McDonald",
+        "awards": 3,
+        "image": "https://www.worldswithoutend.com/covers/imd_riverofg.jpg",
+        "year": 2004
+    },
+    {
+        "title": "The Plot Against America",
+        "author": "Philip Roth",
+        "awards": 1,
+        "image": "https://www.worldswithoutend.com/covers/pr_theplota.jpg",
+        "year": 2004
+    },
+    {
+        "title": "Never Let Me Go",
+        "author": "Kazuo Ishiguro",
+        "awards": 1,
+        "image": "https://www.worldswithoutend.com/covers/ki_neverlet.jpg",
+        "year": 2005
+    },
+    {
+        "title": "The House of Storms",
+        "author": "Ian R. MacLeod",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/irml_thehouse.jpg",
+        "year": 2005
+    },
+    {
+        "title": "Counting Heads",
+        "author": "David Marusek",
+        "awards": 2,
+        "image": "https://www.worldswithoutend.com/covers/dm_counting.jpg",
+        "year": 2005
+    },
+    {
+        "title": "Air",
+        "author": "Geoff Ryman",
+        "awards": 6,
+        "image": "https://www.worldswithoutend.com/covers/gr_air.jpg",
+        "year": 2004
+    },
+    {
+        "title": "Accelerando",
+        "author": "Charles Stross",
+        "awards": 5,
+        "image": "https://www.worldswithoutend.com/covers/cs_accelera.jpg",
+        "year": 2005
+    },
+    {
+        "title": "Spin",
+        "author": "Robert Charles Wilson",
+        "awards": 4,
+        "image": "https://www.worldswithoutend.com/covers/rcw_spin.jpg",
+        "year": 2005
+    },
+    {
+        "title": "My Dirty Little Book of Stolen Time",
+        "author": "Liz Jensen",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/lj_mydirty.jpg",
+        "year": 2006
+    },
+    {
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/cmc_theroad.jpg",
+        "year": 2006
+    },
+    {
+        "title": "His Majesty's Dragon",
+        "author": "Naomi Novik",
+        "awards": 2,
+        "image": "https://www.worldswithoutend.com/covers/nn_hismajes.jpg",
+        "year": 2006
+    },
+    {
+        "title": "Blindsight",
+        "author": "Peter Watts",
+        "awards": 4,
+        "image": "https://www.worldswithoutend.com/covers/pw_blindsig.jpg",
+        "year": 2006
+    },
+    {
+        "title": "HARM",
+        "author": "Brian W. Aldiss",
+        "awards": 1,
+        "image": "https://www.worldswithoutend.com/covers/bwa_harm.jpg",
+        "year": 2007
+    },
+    {
+        "title": "The Yiddish Policemen's Union",
+        "author": "Michael Chabon",
+        "awards": 5,
+        "image": "https://www.worldswithoutend.com/covers/mc_theyiddi.jpg",
+        "year": 2007
+    },
+    {
+        "title": "The Secret City",
+        "author": "Carol Emshwiller",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/ce_thesecre.jpg",
+        "year": 2007
+    },
+    {
+        "title": "In War Times",
+        "author": "Kathleen Ann Goonan",
+        "awards": 1,
+        "image": "https://www.worldswithoutend.com/covers/kag_inwartim.jpg",
+        "year": 2007
+    },
+    {
+        "title": "Postsingular",
+        "author": "Rudy Rucker",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/rr_postsing.jpg",
+        "year": 2007
+    },
+    {
+        "title": "Shadow of the Scorpion",
+        "author": "Neal Asher",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/na_shadowof.jpg",
+        "year": 2009
+    },
+    {
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "awards": 0,
+        "image": "https://www.worldswithoutend.com/covers/sc_thehunge.jpg",
+        "year": 2008
+    },
+    {
+        "title": "Little Brother",
+        "author": "Cory Doctorow",
+        "awards": 5,
+        "image": "https://www.worldswithoutend.com/covers/cd_littlebr.jpg",
+        "year": 2008
+    },
+    {
+        "title": "The Alchemy of Stone",
+        "author": "Ekaterina Sedia",
+        "awards": 1,
+        "image": "https://www.worldswithoutend.com/covers/es_thealche.jpg",
+        "year": 2008
+    },
+    {
+        "title": "The Windup Girl",
+        "author": "Paolo Bacigalupi",
+        "awards": 5,
+        "image": "https://www.worldswithoutend.com/covers/pb_thewindu.jpg",
+        "year": 2009
+    },
+    {
+        "title": "Steal Across the Sky",
+        "author": "Nancy Kress",
+        "awards": 2,
+        "image": "https://www.worldswithoutend.com/covers/nk_stealacr.jpg",
+        "year": 2009
+    },
+    {
+        "title": "Boneshaker",
+        "author": "Cherie Priest",
+        "awards": 3,
+        "image": "https://www.worldswithoutend.com/covers/cp_boneshak.jpg",
+        "year": 2009
+    },
+    {
+        "title": "Zoo City",
+        "author": "Lauren Beukes",
+        "awards": 4,
+        "image": "https://www.worldswithoutend.com/covers/lb_zoocity.jpg",
+        "year": 2010
+    },
+    {
+        "title": "Zero History",
+        "author": "William Gibson",
+        "awards": 2,
+        "image": "https://www.worldswithoutend.com/covers/wg_zerohist.jpg",
+        "year": 2010
+    },
+    {
+        "title": "The Quantum Thief",
+        "author": "Hannu Rajaniemi",
+        "awards": 2,
+        "image": "https://www.worldswithoutend.com/covers/hr_thequant.jpg",
+        "year": 2010
+    }
+]
