@@ -1,0 +1,4 @@
+1. Create a constructor function called Employee that will be used to create objects with properties: name and department.
+2. All employees instantiated from Employee should inherit method whoAreYou that will return: "My name is [the employee's name] and I am working in department [the employee's department]"
+3. Create a constructor function called Manager that inherits from Employee and will have the employees property (whose value defaults to an empty array, intended to have an array of Employee objects as its value). The department for all managers is "general". All Manager should have the ability to fire people. This should be a method which will remove the employee from the 'employees' property. The employee that should be fired will be passed by name as argument to the method
+4. Create a constructor function called SalesPerson that inherits from Employee and will have the quota property. (The department for all sales people is "sales")
