@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>IMDB Movies</title>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <nav aria-label="Page navigation example" class="justify-content-center">
+            <ul class="pagination justify-content-center">
+                <li id="previous" class="page-item">
+                    <a class="page-link" href="#" tabindex="-1">Previous</a>
+                </li>
+                <div id="pages" class="pagination justify-content-center">
+                </div>
+                <li id="next" class="page-item">
+                    <a class="page-link" href="#">Next</a>
+                </li>
+            </ul>
+            <div class="row">
+                <div class="col-sm-6 offset-sm-5">
+                    <label class="mr-sm-2" for="inlineFormCustomSelect">Sort by:</label>
+                    <select id="sortBy" class="custom-select mb-2 mr-sm-2 mb-sm-0 justify-content-center" id="inlineFormCustomSelect">
+                    <option selected>Choose...</option>
+                    <option value="title">Title</option>
+                    <option value="rating">Rating</option>
+                    <option value="secondaryInfo">Release</option>
+                    </select>
+                    <i id="sortOrder" class="fa fa-caret-down" aria-hidden="true"></i>
+                </div>
+            </div>
+        </nav>
+        <div class="card-group">
+            <div class="row col-sm-12">
+
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+
+</body>
+
+</html>

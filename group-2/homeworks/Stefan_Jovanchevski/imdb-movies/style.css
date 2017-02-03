@@ -1,0 +1,17 @@
+.movieWraper {
+    height: 670px;
+}
+
+.movieContainer {
+    height: 660px;
+}
+
+.posterImage {
+    height: 350px;
+}
+
+@media (max-width: 770px) {
+    #pages {
+        display: none;
+    }
+}
