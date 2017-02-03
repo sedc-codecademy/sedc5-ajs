@@ -36,3 +36,11 @@ class Employee extends Person {
 
 let srdjan = new Employee(111, "Srdjan", "Rakic", 26);
 console.log(srdjan.display());
+
+let persons: Person[] = [];
+
+persons.push(weko);
+persons.push(violeta);
+persons.push(srdjan);
+
+console.log(persons.map(p => p.getFullName()));
