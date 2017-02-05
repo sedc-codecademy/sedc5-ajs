@@ -1,0 +1,46 @@
+/*.navbar-brand {
+  transform: translateX(-50%);
+  left: 50%;
+  position: absolute;
+}*/
+
+
+#page {
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+#movies-table td {
+  vertical-align: middle;
+}
+
+#movies-table tr td:first-child {
+  width: 10.25%;
+  height: 92px;
+}
+#movies-table tr td:nth-child(2) {
+  width: 11.89%;
+  height: 92px;
+}
+#movies-table tr td:nth-child(3) {
+  width: 39.81%;
+  height: 92px;
+}
+#movies-table tr td:nth-child(4) {
+  width: 9.72%;
+  height: 92px;
+}
+#movies-table tr td:nth-child(5) {
+  width: 12.25%;
+  height: 92px;
+}
+#movies-table tr td:nth-child(6) {
+  width: 16.03%;
+  height: 92px;
+}
+
+#select {
+  border-color: #5cb85c;
+}

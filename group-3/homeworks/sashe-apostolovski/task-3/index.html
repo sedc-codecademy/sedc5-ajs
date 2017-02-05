@@ -1,12 +1,72 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>Top 250 IMDB Movies</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ"
+    crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn"
+      crossorigin="anonymous"></script>
+      <script src="js/script.js"></script>
 </head>
+
 <body>
-  
-  <script src="script.js"></script>
-  <script src="scraper.js"></script>
+
+  <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse">
+    <a class="navbar-brand" href="#">Movies</a>
+    <div class="container">
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" id="prev" href="javascript:void(0)">Previous</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" id="next" href="javascript:void(0)">Next</a>
+            </li>
+          </ul>
+          <form id="sort" class="form-inline mr-auto">
+            <select id="select" class="custom-select mb-2 mr-sm-2 mb-sm-0" id="inlineFormCustomSelect">
+              <option selected disabled>Sort by...</option>
+              <option value="title">Title</option>
+              <option value="year">Year (Desc.)</option>
+              <option value="rating">Rating (Desc)</option>
+
+            </select>
+          </form>
+          <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="text" placeholder="Search">
+            <button id="search" class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+          </form>
+        </div>
+
+    </div>
+  </nav>
+
+  <div class="container">
+    <p id="page"></p>
+    <table id="movies-table" class="table">
+      <thead class="thead-default">
+        <tr>
+          <th>Rank</th>
+          <th>Poster</th>
+          <th>Title</th>
+          <th>Year</th>
+          <th>Rating</th>
+          <th>IMDb ID</th>
+        </tr>
+      </thead>
+      <tbody id="data">
+      </tbody>
+    </table>
+  </div>
+
 </body>
+
 </html>
