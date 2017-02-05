@@ -26,6 +26,6 @@
     movie.link = `http://www.imdb.com/title/${movie.id}`;
 
     movies.push(movie);
-    return movies;
+    return JSON.stringify(movies);
   }, []);
 })();
