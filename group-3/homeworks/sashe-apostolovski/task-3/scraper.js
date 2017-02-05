@@ -6,7 +6,7 @@
   let movies = [];
   let moviesNodeList = document.querySelectorAll('.lister-list > tr');
 
-  return Array.prototype.reduce.call(moviesNodeList, (movies, movieElement) => {
+  let movieList = Array.prototype.reduce.call(moviesNodeList, (movies, movieElement) => {
     let movie = {};
     let posterElement = movieElement.querySelector('.posterColumn');
     movie.poster = posterElement.querySelector('img').src;
@@ -26,6 +26,7 @@
     movie.link = `http://www.imdb.com/title/${movie.id}`;
 
     movies.push(movie);
-    return JSON.stringify(movies);
+    return movies;
   }, []);
+  return JSON.stringify(movieList);
 })();
