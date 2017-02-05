@@ -36,6 +36,13 @@
   width: 12.25%;
   height: 92px;
 }
+
+#movies-table tr td:nth-child(5)::before {
+  content: url(star.png);
+  position: relative;
+  right: 2px;
+  top: 2px;
+}
 #movies-table tr td:nth-child(6) {
   width: 16.03%;
   height: 92px;
