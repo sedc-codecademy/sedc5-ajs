@@ -20,6 +20,7 @@ function setMovies(movies) {
       }
     },
 
+    // Search Feature
     searchMovie: function(searchTerm) {
       movieRepository.pageIndex = 0;
       this.shownMovies = this.movies.filter(movie => {
@@ -30,6 +31,7 @@ function setMovies(movies) {
       })
     },
 
+    // Sort Feature
     sortMovies: function(sortBy) {
       movieRepository.pageIndex = 0;
       movieRepository.shownMovies = movieRepository.movies.sort((a, b) => {
