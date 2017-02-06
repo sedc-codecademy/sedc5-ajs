@@ -5,11 +5,24 @@
 }*/
 
 
-#page {
-  text-align: center;
-  margin: 0 auto;
+.paging {
   margin-top: 50px;
-  margin-bottom: 10px;
+  overflow: auto;
+}
+
+#page {
+  float: right;
+  padding-top: 14px;
+  margin-bottom: 0;
+}
+
+.movies-per-page, sort {
+  float: left;
+}
+
+
+#movies-table {
+  margin-top: 10px;
 }
 
 #movies-table td {

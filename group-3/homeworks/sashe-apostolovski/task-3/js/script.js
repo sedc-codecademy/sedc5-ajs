@@ -107,7 +107,8 @@ document.addEventListener('DOMContentLoaded', () => {
   let prevBtn = document.getElementById('prev');
   let searchBtn = document.getElementById('search')
   let searchInput = document.querySelector('input[type="text"]');
-  let select = document.getElementById('select');
+  let sortBySelect = document.getElementById('select-sort');
+  let moviesPerPage = document.getElementById('select-number');
 
   nextBtn.addEventListener('click', () => {
     movieRepository.nextPage();
@@ -117,8 +118,8 @@ document.addEventListener('DOMContentLoaded', () => {
     movieRepository.prevPage();
     displayMovies();
   })
-  select.addEventListener('change', () => {
-    movieRepository.sortMovies(select.value);
+  sortBySelect.addEventListener('change', () => {
+    movieRepository.sortMovies(sortBySelect.value);
     displayMovies();
   });
   searchBtn.addEventListener('click', () => {
@@ -127,4 +128,9 @@ document.addEventListener('DOMContentLoaded', () => {
     movieRepository.searchMovie(searchTerm);
     displayMovies();
   })
+  moviesPerPage.addEventListener('change', () => {
+    movieRepository.pageSize = moviesPerPage.value;
+    movieRepository.pageIndex = 0;
+    displayMovies();
+  });
 })

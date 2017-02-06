@@ -31,17 +31,8 @@
               <a class="nav-link" id="next" href="javascript:void(0)">Next</a>
             </li>
           </ul>
-          <form id="sort" class="form-inline mr-auto">
-            <select id="select" class="custom-select mb-2 mr-sm-2 mb-sm-0" id="inlineFormCustomSelect">
-              <option selected disabled>Sort by...</option>
-              <option value="title">Title</option>
-              <option value="year">Year (Desc.)</option>
-              <option value="rating">Rating (Desc)</option>
-
-            </select>
-          </form>
           <form class="form-inline my-2 my-lg-0">
-            <input class="form-control mr-sm-2" type="text" placeholder="Search">
+            <input class="form-control mr-sm-2" type="text" placeholder="Search movie">
             <button id="search" class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
           </form>
         </div>
@@ -50,7 +41,25 @@
   </nav>
 
   <div class="container">
-    <p id="page"></p>
+    <div class="paging">
+      <p id="page"></p>
+      <form class="movies-per-page" class="form-inline mr-auto">
+        <select id="select-number" class="custom-select mb-2 mr-sm-2 mb-sm-0" id="inlineFormCustomSelect">
+          <option value="5">5 Movies per page</option>
+          <option value="10" selected>10 Movies per page</option>
+          <option value="20">20 Movies per page</option>
+        </select>
+      </form>
+      <form id="sort" class="form-inline mr-auto">
+        <select id="select-sort" class="custom-select mb-2 mr-sm-2 mb-sm-0" id="inlineFormCustomSelect">
+          <option selected disabled>Sort by...</option>
+          <option value="title">Title</option>
+          <option value="year">Year (Desc.)</option>
+          <option value="rating">Rating (Desc)</option>
+
+        </select>
+      </form>
+    </div>
     <table id="movies-table" class="table">
       <thead class="thead-default">
         <tr>
