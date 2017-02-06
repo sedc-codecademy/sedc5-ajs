@@ -1,46 +1,34 @@
 class Person {
-    constructor(public firstName: string, public lastName: string, public age?: number) {
-    }
 
-    getFullName() {
+    constructor(public firstName: string, public lastName: string, public age? : number){}
+
+    public getFullName(){
         return `${this.firstName} ${this.lastName}`;
     }
 
-    displayAge() {
-        if (this.age) {
-            return "No age entered";
-        }
-        return this.age;
+    public display(){
+        if (this.age)
+            return `${this.getFullName()} - ${this.age}`;
+        else
+            return this.getFullName();
+    }
+
+}
+
+class Employee extends Person{
+    constructor(public empId: string, firstName: string, lastName: string, age? : number){
+        super(firstName, lastName, age);
+    }
+
+    public getFullName(){
+        return `#${this.empId}: ${this.firstName} ${this.lastName}`;
     }
 }
 
 let weko = new Person("Wekoslav", "Stefanovski", 0x27);
-let violeta = new Person("Violeta", "Zhabeva");
+let ines = new Person("Ines", "Rasic");
+let dejan = new Employee("A001", "Dejan", "Petreski");
 
-console.log(weko.getFullName());
-console.log(violeta.getFullName());
+let people: Person[] = [weko, ines, dejan];
 
-enum WorldSide {
-    East, West, North, South
-}
-
-class Employee extends Person {
-    constructor(public employeeId: number, firstName: string, lastName: string, age?: number) {
-        super(firstName, lastName, age);
-    }
-
-    display() {
-        return `#${this.employeeId}: ${this.getFullName()}`;
-    }
-}
-
-let srdjan = new Employee(111, "Srdjan", "Rakic", 26);
-console.log(srdjan.display());
-
-let persons: Person[] = [];
-
-persons.push(weko);
-persons.push(violeta);
-persons.push(srdjan);
-
-console.log(persons.map(p => p.getFullName()));
+console.log(people.map(p => p.display()));

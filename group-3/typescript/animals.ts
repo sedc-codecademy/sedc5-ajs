@@ -1,29 +1,38 @@
-class Animal {
-    constructor(public name: string, public kind: string) { }
-
-    speak() {
-        return `My name is ${this.name} and I'm a ${this.kind}`;
+let animals = [
+    {
+        name: "Rex",
+        type: "dog",
+        kind: "shepperd"
+    },
+    {
+        name: "Fluffy",
+        type: "cat",
+        kind: "calico"
+    },
+    {
+        name: "Swimmy",
+        type: "goldfish",
+        age: 12
     }
+];
+
+interface IAnimal {
+    name: string;
+    type: string;
+    kind?: string;
 }
 
-class Dog extends Animal {
-    constructor(name: string){
-        super(name, "dog");
-    }
+function showAnimal(animal : IAnimal){
+    return `${animal.name} is a ${animal.type} of the ${animal.kind} kind`;
 }
 
-class Cat extends Animal {
-    constructor(name: string){
-        super(name, "cat");
-    }
+console.log(animals.map(a => showAnimal(a)));
+
+enum WorldSide {
+    South, 
+    North,
+    East,
+    West
 }
 
-let animals: Animal[] = [];
-
-animals.push(new Dog("Rex"));
-animals.push(new Cat("Fluffy"));
-animals.push(new Animal("Alice", "chimp"));
-
-console.log(animals.map(a => a.speak()));
-
-let rex = new Dog("Rex");
+let direction : WorldSide = WorldSide.North;

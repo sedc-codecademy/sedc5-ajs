@@ -33,17 +33,6 @@ function divHold(a, b) {
 }
 
 
-// addHold(1, 2, (a, b, s) => {
-//     console.log(`The result of ${a} plus ${b} equals ${s}`)
-//     mulHold(5, s, (a, b, p) => {
-//         addHold(7, p, (a, b, s) => {
-//             console.log(`The result of ${a} plus ${b} equals ${s}`)
-//         })
-//         console.log(`The result of ${a} times ${b} equals ${p}`)
-//     });
-// });
-
-
 function calculate(param, a, b) {
     if (param === "add")
         return addHold(a, b);
@@ -55,29 +44,20 @@ function calculate(param, a, b) {
 }
 
 
-function doCalculation() {
+async function doCalculation() {
     let a = 1;
     let b = 2;
     let c = 5;
     let d = 7;
-    let r1, r2, r3;
-    calculate("add", a, b)
-        .then(result => {
-            console.log(`The result of ${a} plus ${b} equals ${result}`)
-            r1 = result;
-            return calculate("mul", result, c);
-        })
-        .then(result => {
-            console.log(`The result of ${r1} times ${c} equals ${result}`)
-            r2 = result;
-            return calculate("add", result, d);
-        })
-        .then(result => {
-            console.log(`The result of ${r2} plus ${d} equals ${result}`)
-            r3 = result;
-            return calculate("div", result, 0);
-        })
-        .catch(error => console.log(error));
+
+    let r1 = await calculate("add", a, b);
+    console.log(`The result of ${a} plus ${b} equals ${r1}`);
+    let r2 = await calculate("mul", r1, c);
+    console.log(`The result of ${r1} times ${c} equals ${r2}`);
+    let r3 = await calculate("add", r2, d);
+    console.log(`The result of ${r2} plus ${d} equals ${r3}`);
+    console.log(await calculate("div", r3, 0));
+
 }
 
 doCalculation();
