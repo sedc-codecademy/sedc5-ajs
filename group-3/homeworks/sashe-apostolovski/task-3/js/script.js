@@ -34,7 +34,7 @@ function setMovies(movies) {
     // Sort Feature
     sortMovies: function(sortBy) {
       movieRepository.pageIndex = 0;
-      movieRepository.shownMovies = movieRepository.movies.sort((a, b) => {
+      movieRepository.shownMovies = movieRepository.shownMovies.sort((a, b) => {
         if (sortBy === 'title') {
           return a.title.localeCompare(b.title);
         }
