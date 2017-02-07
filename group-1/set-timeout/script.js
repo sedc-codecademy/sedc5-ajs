@@ -25,4 +25,3 @@ setTimeout(function(){
         }        
     }
 }, 900);
-
