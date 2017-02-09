@@ -1,0 +1,13 @@
+table {
+	width: 1000px;
+	margin: 0 auto;
+}
+button {
+	width: 100%;
+}
+#setPageSize {
+	width: 75%;
+}
+#searchBtn {
+	width: 65px;
+}
