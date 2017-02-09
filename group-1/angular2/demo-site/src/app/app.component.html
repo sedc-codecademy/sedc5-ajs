@@ -1,19 +1,11 @@
+<person-editor [person]="person" [state]="state" 
+  (onAdded)="addPerson($event)" onSaved="savePerson($event)"
+  *ngIf="person"
+></person-editor>
 
-<div>
-  First Name:
-  <input type="text" [(ngModel)]="firstName" />
-</div>
-<div>
-  Last Name:
-  <input type="text" [(ngModel)]="lastName"/>
-</div>
-
-<button (click)="changeName()">Change Name</button>
-
-<div>
-  Hi {{ getFullName() }}
-</div>
-
-<div>
-  Hi <span [innerHTML]="getFullName()"></span>
-</div>
+<ul>
+  <li *ngFor="let student of students">
+    {{ student.getFullName()}}
+    <button (click)="editStudent(student)">Edit</button>
+  </li>
+</ul>

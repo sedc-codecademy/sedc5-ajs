@@ -1,0 +1,26 @@
+<div>
+  First Name:
+  <input type="text" [(ngModel)]="person.firstName" />
+</div>
+<div>
+  Last Name:
+  <input type="text" [(ngModel)]="person.lastName" />
+</div>
+<div>
+  Age:
+  <input type="number" [(ngModel)]="person.age" />
+</div>
+
+<button (click)="addPerson()" *ngIf="isAdding()">Add Person</button>
+<button (click)="savePerson()" *ngIf="isEditing()">Save Person</button>
+
+<div>
+  Hi {{ person.getFullName() }}
+</div>
+
+<ul>
+  <li *ngFor="let student of students">
+    {{ student.getFullName()}}
+    <button (click)="editStudent(student)">Edit</button>
+  </li>
+</ul>
