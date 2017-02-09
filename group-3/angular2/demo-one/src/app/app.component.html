@@ -1,21 +1,45 @@
-
-FirstName <input type="text" [(ngModel)]="firstName"><br /> 
+<!--FirstName <input type="text" [(ngModel)]="firstName"><br /> 
 
 LastName <input type="text" [(ngModel)]="lastName"><br />
 
-<div>
-  {{getFullName()}}
-</div>
+Age <input type="number" [(ngModel)]="age"><br />
 
-<div>
-  {{getFullName()}}
-</div>
-<div>
-  {{getFullName()}}
-</div>
 <div>
   {{getFullName()}}
 </div>
 <div>
   {{firstName}} {{lastName}}
 </div>
+
+<button (click)="haveABirthDay()">BIRTHDAY!!!</button>-->
+
+
+<!--<div>
+  FirstName <input type="text" [(ngModel)]="person.firstName"><br /> 
+  LastName <input type="text" [(ngModel)]="person.lastName"><br/> 
+  Age <input type="number" [(ngModel)]="person.age"><br />
+
+  <div>
+    {{person.getFullName()}}
+  </div>
+  <button (click)="addStudent()" *ngIf="isAdding()">Add student</button>
+  <button (click)="saveStudent()" *ngIf="isEditing()">Save student</button>
+</div>
+
+<ul>
+  <li *ngFor="let student of students">
+    {{student.getFullName()}} <button (click)="editStuden(student)">Edit</button>
+  </li>
+</ul>-->
+
+<person-editor *ngIf="hasPerson()"
+  [person]="person" [state]="state" 
+ (onAdded)="addStudent($event)"
+ (onSaved)="saveStudent($event)"
+ ></person-editor>
+
+<ul>
+  <li *ngFor="let student of students">
+    {{student.getFullName()}} <button (click)="editStuden(student)">Edit</button>
+  </li>
+</ul>

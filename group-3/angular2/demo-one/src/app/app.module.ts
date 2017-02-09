@@ -5,16 +5,20 @@ import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
 
+import { PersonEditorComponent } from '../person-editor/person-editor';
+import { PersonService } from '../person-service/person-service';
+
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    PersonEditorComponent
   ],
   imports: [
     BrowserModule,
     FormsModule,
     HttpModule
   ],
-  providers: [],
+  providers: [PersonService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
