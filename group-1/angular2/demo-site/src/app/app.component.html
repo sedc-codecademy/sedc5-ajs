@@ -1,0 +1,19 @@
+
+<div>
+  First Name:
+  <input type="text" [(ngModel)]="firstName" />
+</div>
+<div>
+  Last Name:
+  <input type="text" [(ngModel)]="lastName"/>
+</div>
+
+<button (click)="changeName()">Change Name</button>
+
+<div>
+  Hi {{ getFullName() }}
+</div>
+
+<div>
+  Hi <span [innerHTML]="getFullName()"></span>
+</div>
