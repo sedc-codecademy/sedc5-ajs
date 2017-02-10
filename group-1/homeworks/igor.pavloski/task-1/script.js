@@ -4,6 +4,7 @@ let button = document.getElementById("roll");
 let result = document.getElementById("result");
 let rollRandomNumber = (max) => Math.random() * (max + 1) | 0;
 
+//loading JSON file function -----------------------------------------
 function loadJSON(path, success, error) {
     var xhr = new XMLHttpRequest();
     xhr.onreadystatechange = function () {
@@ -21,8 +22,35 @@ function loadJSON(path, success, error) {
     xhr.send();
 }
 
+//getting the function for the entered operation---------------
+function doOperation(operation) {
+    switch (operation) {
+        case "sine":
+            return (data) => Math.sin(data);
+            break;
 
+        case "cosine":
+            return (data) => Math.cos(data);
+            break;
 
+        case "log":
+            return (data) => Math.log(data);
+            break;
+
+        case "square":
+            return (data) => Math.pow(data, 2);
+            break;
+
+        case "cube":
+            return (data) => Math.pow(data, 3);
+            break;
+
+        default:
+            return "There have been an error";
+    }
+}
+
+//main button's on click function--------------------------------------------
 button.addEventListener("click", function () {
 
     loadJSON('filelist.json',
@@ -31,35 +59,14 @@ button.addEventListener("click", function () {
 
             loadJSON(randomFile,
                 function (randomFile) {
+                    let operation = doOperation(randomFile.operation)
+                    let data = randomFile.data;
                     let sum = 0;
 
-                    for (i = 0; i < randomFile.data.length; i++) {
-                        switch (randomFile.operation) {
-                            case "sine":
-                                sum += Math.sin(randomFile.data[i]);
-                                break;
+                    data.forEach(function (element) {
+                        sum += operation(element);
+                    }, this);
 
-                            case "cosine":
-                                sum += Math.cos(randomFile.data[i]);
-                                break;
-
-                            case "log":
-                                sum += Math.log(randomFile.data[i]);
-                                break;
-
-                            case "square":
-                                sum += Math.pow(randomFile.data[i], 2);
-                                break;
-
-                            case "cube":
-                                sum += Math.pow(randomFile.data[i], 3);
-                                break;
-
-                            default:
-                                return "There have been an error";
-                        }
-
-                    }
                     result.innerHTML += `The operation ${randomFile.operation} applied to the array ${randomFile.data} gives a result of ${sum.toFixed(2)}</br>`;
                 },
                 function (xhr) { console.error(xhr); }
@@ -70,8 +77,4 @@ button.addEventListener("click", function () {
     );
 
 });
-
-
-
-
 
