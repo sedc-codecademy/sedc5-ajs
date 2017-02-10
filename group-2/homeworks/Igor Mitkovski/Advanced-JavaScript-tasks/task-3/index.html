@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>IMDb 250 Top Rated</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+<body>
+	<input type="text" id="search" size="30">
+	<button id="searchBtn">Search</button>
+    <table>
+        <thead>
+            <tr>
+                <th>
+                    <button id="previous">Previous</button>
+                </th>
+                <th colspan="2">
+                    Page: <span id="page">#</span> of <span id="pages">#</span>
+                </th>
+                <th colspan="2">
+                    <button id="next">Next</button>
+                </th>
+            </tr>
+            <tr>
+                <th>
+                    <button id="rank">Rank</button>
+                </th>
+                <th>
+                    <button id="title">Title</button>
+                </th>
+                <th>
+                    <button id="year">Year</button>
+                </th>
+                <th>
+                    <button id="rating">Rating</button>
+                </th>
+                <th>
+                    <button id="setPageSize">Show list of:</button>
+                    <select id="pageSize">
+                        <option value="10" >10</option>
+                        <option value="20">20</option>
+                        <option value="50">50</option>
+                    </select>
+                </th>
+            </tr>
+        </thead>
+        <tbody id="movieTable">
+        </tbody>
+    </table>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+</body>
+
+</html>
